@@ -1,36 +1,31 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Hello World"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## I'm Jawad Aziz Khan
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+A passionate Vancouver-based **Software Engineer** who loves crafting creative solutions that make a positive impact.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+![My Portrait](@assets/images/myport5.jpg)
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+## What I'm All About 🚀
 
-## Tech Stack
+I'm a problem-solver at heart, always seeking ways to enhance user experiences and create sustainable solutions that benefit humanity and the environment. With a solid foundation in mobile and full-stack development, I thrive on designing, building, and deploying secure, reliable, and multi-platform systems.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+## What I Build 🛠️
 
-## Features
+From mobile apps that promote responsible financial habits to augmented reality multiplayer games, I love creating innovative projects that push boundaries. Some of my notable works include an iOS app for family allowance and chore management, an internal admin survey engine, a health-conscious Unity game for Android, an AR multiplayer physics game, and a Python chat data analysis project.
 
-Here are certain features of this site.
+## My Expertise 💻
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+Over the past 4+ years, I've honed my skills in mobile and fullstack development and my favored tools are Flutter, Node, & Python.
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- **Languages**: Java, Python, Javascript, Dart, C++, C#, Kotlin, Swift, Ruby, R, PHP, Bash, SQL, HTML, CSS
+- **Mobile**: Flutter, Firebase, FCM, APN, Xcode, React Native, Gson, Hive, Glide, ARCore, Provider, Sentry, Retrofit, Picasso, PaperDB, Agora
+- **Fullstack Web**: Node.js, Express, Flask, Django, React, Bootstrap, JQuery, GCP, AWS, WebRTC, Bcrypt, Handlebars, EJS, Passport, Multer
+- **System Tools**: Git, NGINX, Latex, Agile, Trello, REST API, SOAP, CI/CD, SSH, DevOps, SVN, JSON/XML/CSV, HL7, Scraping, Postman, Confluence, Jira, MySQL, MongoDB, MQTT, IoT
+- **AI & Game Dev**: OpenCV, NLP, Tensorflow, Pytorch, Pandas, Keras, Numpy, ETL, Deep/Reinforcement Learning, LLM, Ollama, ChatGPT, Scikit-learn, Godot, Blender3D, Unity, Vuforia
+- **Platforms**: Windows, MacOS, Android, iOS, Linux, Raspberry Pi, Arduino
+
+So, whether you're looking for a skilled developer, a creative problem-solver, or a passionate team player, I'm excited to collaborate and bring your ideas to life!
