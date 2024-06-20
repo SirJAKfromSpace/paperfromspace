@@ -1,23 +1,23 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "Hello World"
+title: "Hello World!"
 ---
 
 ## I'm Jawad Aziz Khan
 
-A passionate Vancouver-based **Software Engineer** who loves crafting creative solutions that make a positive impact.
-
 ![My Portrait](@assets/images/myport5.jpg)
 
-## What I'm All About 🚀
+A passionate Vancouver-based **Software Engineer** who loves crafting creative solutions that make a positive impact.
+
+## What? 🛠️
+
+From mobile apps that promote responsible financial habits to augmented reality multiplayer games, I love creating innovative projects that push boundaries. Some of my notable works include an iOS app for family allowance and chore management, an internal admin survey engine, a health-conscious Unity game for Android, an AR multiplayer physics game, and a Python chat data analysis project. Feel free to check out [My Work](/work) in detail.
+
+## Why? 🚀
 
 I'm a problem-solver at heart, always seeking ways to enhance user experiences and create sustainable solutions that benefit humanity and the environment. With a solid foundation in mobile and full-stack development, I thrive on designing, building, and deploying secure, reliable, and multi-platform systems.
 
-## What I Build 🛠️
-
-From mobile apps that promote responsible financial habits to augmented reality multiplayer games, I love creating innovative projects that push boundaries. Some of my notable works include an iOS app for family allowance and chore management, an internal admin survey engine, a health-conscious Unity game for Android, an AR multiplayer physics game, and a Python chat data analysis project.
-
-## My Expertise 💻
+## How? 💻
 
 Over the past 4+ years, I've honed my skills in mobile and fullstack development and my favored tools are Flutter, Node, & Python.
 
