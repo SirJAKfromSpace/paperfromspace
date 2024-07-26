@@ -29,3 +29,5 @@ Over the past 4+ years, I've honed my skills in mobile and fullstack development
 - **Platforms**: Windows, MacOS, Android, iOS, Linux, Raspberry Pi, Arduino
 
 So, whether you're looking for a skilled developer, a creative problem-solver, or a passionate team player, I'm excited to collaborate and bring your ideas to life!
+
+_My old site is still up at [v1.jakfromspace.me](https://v1.jakfromspace.me)._

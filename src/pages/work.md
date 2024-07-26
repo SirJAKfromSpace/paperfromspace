@@ -3,6 +3,20 @@ layout: ../layouts/WorkLayout.astro
 title: "Career"
 ---
 
+## Shampan Tours
+
+**Full-stack Developer**  
+2023
+
+- Developed and maintained tour booking backend using Node.js, and MongoDB, increasing booking efficiency by 30%.
+- Built a dynamic pricing system that adjusts prices based on demand, upping revenue by 25% during peak seasons.
+- Created an intuitive and mobile responsive web application using Flutter, enhancing mobile engagement by 50%.
+- Reduced onboarding time by 30% through detailed project documentation and standardized code guidelines.
+
+Stack: Javascript, Node.js, Svelte, Handlebars, MongoDB
+
+---
+
 ## [Cerence Inc](https://www.cerence.com/home)
 
 **Software Engineer Intern**  
