@@ -5,7 +5,6 @@ pubDatetime: 2024-08-27T14:05:40-07:00
 description: Unraveling the Threads of Consciousness and the Soul
 draft: false
 tags:
-  - yin yang
   - metaphysics
   - psychology
   - Carl Jung
@@ -22,10 +21,15 @@ tags:
   - Guillermo del Toro
   - Attack on Titan
   - Elden Ring
-  - Awakenings
+  - Arrival
+  - Denis Villeneuve
+  - George RR Martin
+  - Hidetaka Miyazaki
 ---
 
-# The Puppet's Path: Unraveling the Threads of Consciousness and the Soul
+## Unraveling the Strings of Consciousness and Soul
+
+![from Guillermo Del Torro's Pinocchio, The Angel and The Cricket](@assets/images/forblog/0-pinocchiotorro.jpg)
 
 In the labyrinth of human consciousness, where strings of fate intertwine with the puppetry of the psyche, we find ourselves dancing to the tune of an unseen maestro. But what if, like Pinocchio, we could cut those strings and become real? This journey into the depths of the mind, from the whispers of our inner voice to the roar of our unconscious divinity, might just be the key to unlocking our true potential.
 
@@ -34,6 +38,8 @@ In the labyrinth of human consciousness, where strings of fate intertwine with t
 ## The Wooden Boy's Whisper: Carl Jung and the Voice in Your Head
 
 Picture this: You're walking down a dimly lit corridor, your footsteps echoing in the silence. Suddenly, a voice pipes up, "Hey, maybe we should turn back." But wait, who said that? Welcome to the fascinating world of the inner monologue, your personal Jiminy Cricket perched on the shoulder of your psyche.
+
+![Carl G. Jung](@assets/images/forblog/0-jung.jpg)
 
 Carl Jung, the Swiss psychiatrist who probably spent more time talking to himself than most of us spend talking to others, had a lot to say about this internal chatterbox. He believed that this voice was more than just a nagging reminder to floss; it was a crucial component of what he called the "Divine Self."
 
@@ -49,6 +55,8 @@ Now, let's dive deeper into the murky waters of the psyche, where Jung's theorie
 
 Jung saw striking parallels between the alchemical process and psychological transformation. Just as alchemists sought to purify and transform base metals, Jung believed we could transform our psyche through the integration of opposing forces within us. He called this the "marriage of opposites," a concept that sounds like it could be the title of a quirky indie rom-com.
 
+![Elden Ring](@assets/images/forblog/0-elden.jpg)
+
 This idea of duality and integration is beautifully represented in the video game "Elden Ring." The game's world is a tapestry of light and dark, life and death, sanity and madness. As the player character, you're tasked with mending a shattered world - a perfect metaphor for the fragmented psyche Jung often discussed.
 
 But here's the kicker: this process isn't all sunshine and rainbows. It often involves confronting our inner child trauma, those deep-seated wounds that make us wince when someone mentions our high school yearbook photos. This confrontation is crucial, though. As Jung put it, "There is no coming to consciousness without pain."
@@ -63,17 +71,23 @@ This idea of interconnectedness brings us to the thorny question of free will. A
 
 ## Quantum Leaps and Free Will: The Physics of Consciousness
 
+![Quantum Mechanics and Parallel Universes](@assets/images/forblog/0-quantum.webp)
+
 Enter quantum physics, stage left. In his book "Quantum Physics Made Me Do It," physicist Jérémie Harris explores the mind-bending implications of quantum mechanics on our understanding of free will and consciousness.
 
 Quantum physics introduces an element of fundamental unpredictability to the universe. At the quantum level, particles exist in a state of superposition, simultaneously occupying multiple states until observed. This quantum weirdness has led some thinkers to propose that consciousness itself might be a quantum phenomenon.
 
 If our thoughts and decisions are influenced by quantum processes in our brains, does this restore our sense of free will, or does it simply replace determinism with randomness? It's enough to make you want to take a quantum leap right out of this philosophical conundrum.
 
-## Awakenings: The Dance of Consciousness and Reality
+## Arrival: The Linguistic Dance of Time and Consciousness
 
-Let's bring this cerebral journey back to terra firma with a nod to the 1990 film "Awakenings," based on Oliver Sacks' memoir. The movie tells the story of a group of patients who, after decades in a catatonic state, are "awakened" by a new drug.
+![Shot from Arrival (2016)](@assets/images/forblog/0-arrival.webp)
 
-This film serves as a powerful metaphor for our exploration of consciousness. Like the patients in the movie, we often sleepwalk through life, unaware of the depths of our own consciousness. But when we "awaken" - through self-reflection, therapy, or a particularly insightful fortune cookie - we're confronted with the vastness of our inner world.
+Let's bring this cerebral journey into the realm of science fiction with a nod to the 2016 film "Arrival," based on Ted Chiang's novella "Story of Your Life." The movie tells the story of a linguist who learns to communicate with alien visitors and, in doing so, gains the ability to perceive time non-linearly.
+
+This film serves as a powerful metaphor for our exploration of consciousness. Like Dr. Louise Banks in the movie, we often perceive our lives in a linear fashion, unaware of the cyclical nature of our experiences and the interconnectedness of past, present, and future. But when we "arrive" at a new understanding - through learning a new language, embracing a different culture, or experiencing a paradigm-shifting event - we're confronted with the possibility of perceiving reality in an entirely new way.
+
+The film's central concept, that language shapes our perception of reality, echoes the Sapir-Whorf hypothesis in linguistics. It suggests that the structure of our inner monologue and the words we use to describe our experiences might fundamentally alter how we perceive time, causality, and even our own consciousness. In essence, by changing our internal language, we might reshape our very experience of reality.
 
 ## The Synthesis: Your Personal Pinocchio Journey
 
@@ -89,9 +103,9 @@ In the end, whether our actions are guided by quantum physics, collective uncons
 
 ## References
 
-[1] C.G. Jung, Collected Works. Princeton, NJ: Princeton University Press, 1953-1979.
-[1] G. del Toro, Director, Pinocchio. [Film]. Netflix, 2022.
-[1] FromSoftware, Elden Ring. [Video game]. Bandai Namco Entertainment, 2022.
-[1] H. Isayama, Attack on Titan. [Manga series]. Kodansha, 2009-2021.
-[1] J. Harris, Quantum Physics Made Me Do It. [Book title hypothetical, no actual publication information available]
-[1] M. Awakenings. [Film]. Columbia Pictures, 1990.
+- C.G. Jung, Collected Works. Princeton University Press, 1953-1979.
+- G. del Toro, Director, Pinocchio. [Film]. Netflix, 2022.
+- FromSoftware, Elden Ring. [Video game]. Bandai Namco Entertainment, 2022.
+- H. Isayama, Attack on Titan. [Manga series]. Kodansha, 2009-2021.
+- J. Harris, Quantum Physics Made Me Do It. [Book] Viking , 2023.
+- D. Villeneuve, Arrival. [Film]. Paramount Pictures, 2016.

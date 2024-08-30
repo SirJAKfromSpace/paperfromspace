@@ -3,7 +3,7 @@ layout: ../layouts/WorkLayout.astro
 title: "Career"
 ---
 
-## Shampan Tours
+## Freelance
 
 **Full-stack Developer**  
 2023
