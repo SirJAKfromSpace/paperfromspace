@@ -2,12 +2,12 @@
 author: jakfromspace
 title: Elden World Building
 pubDatetime: 2022-09-23T15:22:00Z
-description: Me gushing about elden rings stellar worldbuilding and writing
+description: Gushing about elden rings stellar world building and character writing
 draft: true
 tags:
   - gaming
-  - world
-  - eldenring
+  - world building
+  - elden ring
 ---
 
 ## Table of contents
