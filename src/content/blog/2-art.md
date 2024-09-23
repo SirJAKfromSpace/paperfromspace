@@ -1,6 +1,6 @@
 ---
 author: jakfromspace
-title: Elden World Building
+title: Shadows and Stardust
 pubDatetime: 2022-09-23T15:22:00Z
 description: Exploring Creativity, Duality, and the Human Condition
 draft: false
@@ -13,6 +13,8 @@ tags:
 ---
 
 # Shadows and Stardust: The Alchemy of Creativity
+
+Exploring Creativity, Duality, and the Human Condition
 
 ## Prologue: The Mysterious Stranger Within
 
