@@ -1,15 +1,33 @@
 ---
 author: jakfromspace
 title: Shadows and Stardust
-pubDatetime: 2022-09-23T15:22:00Z
+pubDatetime: 2024-09-23T12:22:00Z
 description: Exploring Creativity, Duality, and the Human Condition
 draft: false
 tags:
   - gaming
-  - world building
-  - elden ring
   - art
-  - jung
+  - creativity
+  - human heart
+  - world building
+  - psychology
+  - Carl Jung
+  - Duality
+  - fromsoftware
+  - Mark Twain
+  - Elden Ring
+  - George RR Martin
+  - Hidetaka Miyazaki
+  - Shadow Self
+  - Jungian Psychology
+  - Elden Ring
+  - Art and Expression
+  - Yin Yang
+  - Francisco Goya
+  - Mark Twain
+  - Culinary Arts
+  - Delicious in Dungeon
+  - Jacob Geller
 ---
 
 # Shadows and Stardust: The Alchemy of Creativity
@@ -66,7 +84,7 @@ As we delve deeper into the shadow realm of creativity, we begin to see connecti
 
 In "Elden Ring," this interconnectedness is woven into the very fabric of the game world. The actions of demigods echo through the ages, shaping the land and its inhabitants. Similarly, in our own creative endeavors, we draw upon a vast web of influences – every book we've read, every song we've heard, every experience we've had – to create something new.
 
-As George R.R. Martin, one of the creative minds behind "Elden Ring," famously said, "The human heart in conflict with itself is the only thing worth writing about." This internal conflict, this dance between our conscious and unconscious selves, is the wellspring from which all great art flows.
+As William Faulkner, who also inspired G.R.R. Martin, famously said, "The human heart in conflict with itself is the only thing worth writing about". Where all this talk of magic, rings and gods are merely set dressing for what is the macrocosm of the human condition. This internal conflict, this dance between our conscious and unconscious selves, is the wellspring from which all great art flows.
 
 ## Parenthood: Facing the Inherited Shadow
 

@@ -1,18 +1,24 @@
 ---
 author: jakfromspace
 title: Elden World Building
-pubDatetime: 2022-09-23T15:22:00Z
-description: Gushing about elden rings stellar world building and character writing
-draft: true
+pubDatetime: 2024-09-27T19:49:36-07:00
+description: Gushing about Fromsoftware and Elden Ring's stellar world building and lore writing
+draft: false
 tags:
   - gaming
   - world building
+  - fromsoftware
+  - bloodborne
+  - dark souls
   - elden ring
+  - lore
 ---
 
 ## Table of contents
 
 ## Elden Ring: A Multifaceted Analysis of World and Story Design
+
+Elden Ring keeps me up at night. Such is the curse of tarnished lore scholars, game archaeologists, and mimic hunters.
 
 ## Introduction
 
