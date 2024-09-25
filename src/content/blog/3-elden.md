@@ -3,7 +3,7 @@ author: jakfromspace
 title: Elden World Building
 pubDatetime: 2024-09-27T19:49:36-07:00
 description: Gushing about Fromsoftware and Elden Ring's stellar world building and lore writing
-draft: false
+draft: true
 tags:
   - gaming
   - world building

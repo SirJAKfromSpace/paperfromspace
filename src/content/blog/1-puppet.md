@@ -29,9 +29,9 @@ tags:
 
 ## Unraveling the Strings of Consciousness and Soul
 
-![from Guillermo Del Torro's Pinocchio, The Angel and The Cricket](@assets/images/forblog/0-pinocchiotorro.jpg)
+![from Guillermo Del Torro's Pinocchio, The Angel and The Cricket](@assets/images/forblog/0-pinocc.jpg)
 
-In the labyrinth of human consciousness, where strings of fate intertwine with the puppetry of the psyche, we find ourselves dancing to the tune of an unseen maestro. But what if, like Pinocchio, we could cut those strings and become real? This journey into the depths of the mind, from the whispers of our inner voice to the roar of our unconscious divinity, might just be the key to unlocking our true potential.
+In the labyrinth of human consciousness, where strings of fate intertwine with the puppetry of the psyche, we find ourselves dancing to the tune of an unseen maestro. But what if, like Pinocchio, we could cut those strings and become real? This journey into the depths of the mind, from the whispers of our inner voice to the roar of our unconscious divinity, might just be the key to unlocking our true potential. (And congrats you've unlocked a Potential Spoiler Alert for the following: Elden Ring, Attack On Titan, Arrival (2016, Film), and Pinocchio I suppose?)
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ Picture this: You're standing before a mirror, scrutinizing your reflection. Sud
 
 This rapid-fire internal dialogue, this ceaseless chatter in your own mind, (rather than dialogue) is your inner monologue. It's your own personal Jiminy Cricket, not just a cute Disney sidekick, but a relentless narrator and judge, analyzing your every move. "Always let your conscience be your guide," Jiminy famously advised. But what if your conscience is more than just a moral compass? What if it's the voice of something greater within you, trying to nudge you towards your true self?
 
-![Carl G. Jung](@assets/images/forblog/0-jung.jpg)
+![Carl G. Jung](@assets/images/forblog/0-jungd.jpg)
 
 Carl Jung, the Swiss psychiatrist whose insights into the human psyche make my own inner monologue sound like a toddler's babbling, had a lot to say about this internal chatterbox. While most of us use our inner voice to convince ourselves of the merits of a fifth slice of pizza, Jung saw it as something far more profound. He believed it was a crucial component of what he called the "Divine Self", and maybe the constant nagging could very well get us there.
 
@@ -54,23 +54,27 @@ In Guillermo del Toro's "Pinocchio" (2022), we see this concept spring to wooden
 
 ## The Alchemist's Crucible: Transforming the Lead of Trauma into the Gold of Growth
 
-Now, let's dive deeper into the murky waters of the psyche, where Jung's theories mingle with the ancient art of alchemy. No, we're not talking about turning lead into gold (though if you figure that out, call me). We're talking about the alchemy of the soul.
-
-Jung saw striking parallels between the alchemical process and psychological transformation. Just as alchemists sought to purify and transform base metals, Jung believed we could transform our psyche through the integration of opposing forces within us. He called this the "marriage of opposites," a concept that sounds like it could be the title of a quirky indie rom-com.
-
 ![Elden Ring](@assets/images/forblog/0-elden.jpg)
 
-This idea of duality and integration is beautifully represented in the video game "Elden Ring." The game's world is a tapestry of light and dark, life and death, sanity and madness. As the player character, you're tasked with mending a shattered world - a perfect metaphor for the fragmented psyche Jung often discussed.
+Now, let's plunge deeper into the dark recesses of the psyche, where Jung's theories cozy up to the ancient, mystical art of alchemy. No, we’re not talking about turning lead into gold (although, seriously, if you crack that one, call me). We’re talking about the alchemy of the soul—Jung’s favorite metaphor for psychological transformation.
 
-But here's the kicker: this process isn't all sunshine and rainbows. It often involves confronting our inner child trauma, those deep-seated wounds that make us wince when someone mentions our high school yearbook photos. This confrontation is crucial, though. As Jung put it, "There is no coming to consciousness without pain."
+Jung saw a fascinating parallel between the alchemical process and the way we grow through the pain of inner conflict. Just as alchemists sought to purify base metals, Jung believed we can transform our psyche by integrating opposing forces within us. He called this the coniunctio, the “marriage of opposites.” It sounds like the title of a quirky indie rom-com, but it’s really the heart of personal transformation.
+
+This concept of duality is perfectly encapsulated in Elden Ring, where the shattered world of the Lands Between mirrors the fragmented psyche Jung loved to talk about. Take Radagon and Marika, two halves of the same divine being, representing both the masculine and feminine energies in constant conflict and eventual union. Their struggle isn’t just lore—it’s a symbol of our inner war between opposing instincts, the battle between light and dark, creation and destruction, and even sanity and madness. Your character, a lowly Tarnished, must confront these fractured pieces of divinity and attempt to mend the Elden Ring. It’s no accident that this mirrors Jung’s idea of individuation: the process of confronting and integrating the disparate, often wounded, parts of ourselves into a cohesive whole.
+
+And if you think this process is all smooth sailing, guess again. Much like the Tarnished fighting through hordes of grotesque enemies and nightmarish bosses, Jung understood that growth comes through grappling with our deepest wounds. Think of Blaidd the Half-Wolf, whose loyalty to Ranni and her dark path causes him to descend into madness, illustrating Jung’s warning: “There is no coming to consciousness without pain”. And so much more lore yet remains to be uprooted in the Shadow of the Erdtree DLC that will make even the most silver-blooded Tarnished question everything they thought they knew about the Marika and The Lands Between.
 
 ## The Paths of Destiny: Attack on Titan and the Collective Unconscious
 
-Speaking of pain, let's talk about "Attack on Titan." This anime series introduces the concept of "the paths," a metaphysical dimension connecting all Subjects of Ymir. It's a striking visual representation of Jung's concept of the collective unconscious, a shared reservoir of experiences and memories that connects all of humanity.
+![Attack on Titan - Paths](@assets/images/forblog/0-paths.webp)
 
-In "Attack on Titan," the paths serve as a conduit for memories and will, transcending time and space. Similarly, Jung proposed that our unconscious minds are linked in ways that defy our understanding of physics. It's as if we're all nodes in a cosmic internet, sharing memes across the astral plane.
+Speaking of pain—Attack on Titan. Here, trauma is baked into the DNA of the world, quite literally. The series introduces us to “the paths,” a metaphysical network linking all Titans (Subjects of Ymir), a chilling representation of Jung’s concept of the collective unconscious. While Jung described this unconscious as a shared well of human experience, Attack on Titan takes it a step further: these paths connect memories, identities, and even physical bodies across time and space.
 
-This idea of interconnectedness brings us to the thorny question of free will. Are we truly the authors of our own stories, or are we just playing out a script written by forces beyond our comprehension?
+Remember Eren Yeager's journey? His eventual access to the Founding Titan gives him not only the power to alter reality but also the burden of seeing how tightly his fate is entwined with the lives and destinies of those who came before him. Eren’s manipulation of the past to ensure his future echoes Jung's idea that the unconscious mind doesn’t adhere to linear time. In both Jungian theory and Attack on Titan, the past, present, and future are interwoven, with the paths acting like a kind of psychic Wi-Fi signal that everyone’s connected to—whether they like it or not.
+
+Characters like Zeke and Eren raise a thorny issue: do they have true free will, or are they just prisoners of a script etched into the paths long ago? Jung would probably tell you that while we may be shaped by unconscious forces, recognizing those forces gives us the chance to change our fate. It's Eren’s ultimate realization—his tragic awareness of being bound by both history and his own choices—that leads to one of the most complex examinations of free will in modern media.
+
+So, whether you're dodging the moonlight greatsword in Elden Ring or grappling with the existential dread of the Coordinate in Attack on Titan, the question remains: Are we shaping our destiny, or merely following threads woven long before we were even aware of them?
 
 ## Quantum Leaps and Free Will: The Physics of Consciousness
 

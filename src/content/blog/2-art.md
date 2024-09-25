@@ -30,9 +30,11 @@ tags:
   - Jacob Geller
 ---
 
-# Shadows and Stardust: The Alchemy of Creativity
+# The Alchemy of Creativity, Duality, and the Human Condition
 
-Exploring Creativity, Duality, and the Human Condition
+Work in Progress
+
+## Table of Contents
 
 ## Prologue: The Mysterious Stranger Within
 
@@ -69,6 +71,16 @@ The concept of yin and yang, central to Chinese philosophy, offers us a framewor
 For the introvert, especially, the shadow often finds its purest expression through art. The quiet person who suddenly bursts into song, the shy painter whose canvases scream with color – these are examples of the shadow finding its voice through creative channels.
 
 But what happens when we fail to provide an outlet for this shadow energy? The consequences can be dire. As the Daemon in Philip Pullman's "His Dark Materials" series warns, "A human being with no shadow of their own is a human being with no soul." The unexpressed shadow doesn't simply disappear; it festers, growing more potent and potentially destructive over time.
+
+We see this theme of repressed darkness manifesting in the Dark Souls series, where the concept of the "Dark Soul" is central to the narrative. In Dark Souls and its sequels, the player encounters characters and environments that have been consumed by the encroaching shadows, not necessarily out of cruelty or moral decay, but from an inability to confront the full breadth of the human experience.
+
+## Painting in the Dark: The Inky Void of the Soul
+
+Take, for example, the Painted World of Ariamis in Dark Souls. This secluded realm was created by the artist Priscilla, who sought to contain the repressed desires, fears, and traumas of discarded beings - a metaphor for the shadow aspects of the psyche that we often push aside. As the player delves into this twisted, yet hauntingly beautiful world, they discover that the inhabitants have been overwhelmed by the very human feelings they were meant to embody. The paintings themselves have become portals to these unresolved emotions, reflecting Priscilla's own struggle to give voice to the full spectrum of the human condition.
+
+Similarly, in the Ashes of Ariandel DLC for Dark Souls 3, we meet the nameless painter, a young woman tasked with creating a new world from the ashes of the old. Like Priscilla, she wrestles with harnessing the power of the repressed, the unconscious - the "dark" that is inherent to the human experience. Characters like Sister Friede, consumed by her own grief and guilt, or Gael, driven to madness by his all-consuming need to possess the Dark Soul, serve as tragic parallels to the Jungian concept of the shadow overtaking the creative process. As Carl Jung once said, "A creative person has little power over his own life. He is not free. He is captive and driven by his daimon".
+
+In these instances, the Dark Souls series presents a complex exploration of the human condition, where the light and dark are not merely opposites, but inextricably bound together. The painted worlds of Ariamis and Ariandel serve as haunting, yet beautiful reflections of our own struggles to accept and integrate the full breadth of our emotions and desires - the shadow aspects that we so often try to repress or deny. (Not mentioning the can of lorebrain worms that is Hollow Knight in this log.)
 
 ## The Madness of Repression: Goya's Black Paintings
 

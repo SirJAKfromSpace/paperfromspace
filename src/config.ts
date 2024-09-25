@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://jakfromspace.me", // replace this with your deployed domain
   author: "Jawad Aziz Khan",
-  desc: "A minimal, responsive and SEO-friendly portfolio for Jawad Aziz Khan from space.",
+  desc: "A minimal portfolio and blog for Jawad Aziz Khan from space.",
   title: "jakfromspace",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -72,6 +72,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on YouTube`,
     active: true,
   },
+  // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //
   {
     name: "WhatsApp",
     href: "https://github.com/satnaing/astro-paper",
