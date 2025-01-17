@@ -3,17 +3,32 @@ layout: ../layouts/WorkLayout.astro
 title: "Career"
 ---
 
-## Freelance
+## [Teleperformance](https://www.teleperformance.com/)
 
-**Full-stack Developer**  
-2023
+**Technical Support Advisor**  
+2024
 
-- Developed and maintained tour booking backend using Node.js, and MongoDB, increasing booking efficiency by 30%.
-- Built a dynamic pricing system that adjusts prices based on demand, upping revenue by 25% during peak seasons.
-- Created an intuitive and mobile responsive web application using Flutter, enhancing mobile engagement by 50%.
-- Reduced onboarding time by 30% through detailed project documentation and standardized code guidelines.
+- Provided comprehensive technical support for Apple's complete ecosystem including iOS devices, iPads, Apple Watches, AirPods, and Mac computers, while maintaining exceptional customer satisfaction metrics and handling time targets through effective troubleshooting and problem resolution
+- Expertly managed Apple ID security, iCloud services, and account management issues including two-factor authentication, password recovery, storage management, backup/restore procedures, and family-sharing configuration across multiple devices
+- Coordinated effectively with specialized departments including Engineering, Safety and Health, Account Security, Wallet and Pay, Accessibility and TV Support teams for escalated cases, ensuring optimal resolution of complex technical issues
+- Consistently received positive feedback for clear communication, patience, and empathetic approach while guiding customers through complex technical procedures and successfully de-escalating challenging situations through active listening and a professional demeanour
 
-Stack: Javascript, Node.js, Svelte, Handlebars, MongoDB
+
+Stack: iOS, iPadOS, WatchOS, macOS, iCloud
+
+---
+
+## [Schulich School of Engineering](https://schulich.ucalgary.ca/)
+
+**Graduate Teaching Assistant**  
+2022 - 2023
+
+- Facilitated engaging lab sessions for courses like Python for Machine Learning and Software Ethics, promoting hands-on learning and critical thinking.
+- Offered timely support and guidance to students during office hours, addressing their questions and concerns regarding coursework and assessments.
+- Provided personalized mentorship and support, helping students navigate academic challenges and achieve their educational goals.
+- Evaluated projects and homework assignments for courses focusing on clarity, creativity, and technical accuracy.
+
+Stack: Python, matplotlib, TensorFlow, Keras, numpy, scikitlearn 
 
 ---
 
@@ -33,6 +48,18 @@ Stack: Javascript, Node.js, Svelte, Handlebars, MongoDB
 Stack: Android, Confluence, Java, XML SOAP, Python, Linux, NLP
 
 ---
+
+## [Best Buy Canada](https://www.bestbuy.ca/en-ca)
+
+**Computing Solutions Advisor**
+2022
+
+- Provided expert technical consultation to customers on PC builds, smart home ecosystems, and audio systems, consistently delivering personalized solutions while meeting sales targets
+- Demonstrated comprehensive product knowledge across multiple technology categories, advising customers on compatibility, performance requirements, and optimal configurations for their needs
+- Managed complex warehouse operations including efficient processing of online orders, inventory management using RF guns, and maintaining accurate digital records
+- Coordinated with management on strategic merchandising initiatives, creating data-driven stock lists and implementing promotional displays to maximize sales performance
+- Utilized integrated POS and kiosk systems for seamless transaction processing, including returns, exchanges, and membership services while maintaining high customer satisfaction
+
 
 ## [Stellar Vision](http://www.stellarvision.com.au)
 
