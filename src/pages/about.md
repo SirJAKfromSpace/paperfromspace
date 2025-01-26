@@ -15,11 +15,11 @@ From mobile apps that promote responsible financial habits to augmented reality 
 
 ## Why? 🚀
 
-I'm a problem-solver at heart, always seeking ways to enhance user experiences and create sustainable solutions that benefit humanity and the environment. With a solid foundation in mobile and full-stack development, I thrive on designing, building, and deploying secure, reliable, and multi-platform systems.
+I'm a creative at heart with the mind of an engineer, always seeking ways to enhance user experiences and create sustainable solutions that benefit humanity and the environment. With a solid foundation in mobile and full-stack development, I thrive on designing, building, and deploying secure, reliable, and multi-platform systems (and games!).
 
 ## How? 💻
 
-Over the past 4+ years, I've honed my skills in mobile and fullstack development and my favored tools are Flutter, Node, & Python.
+Over the past 5+ years, I've honed my skills in mobile and fullstack development and my favored tools are Flutter, Node, & Python.
 
 - **Languages**: Java, Python, Javascript, Dart, C++, C#, Kotlin, Swift, Ruby, R, PHP, Bash, SQL, HTML, CSS
 - **Mobile**: Flutter, Firebase, FCM, APN, Xcode, React Native, Gson, Hive, Glide, ARCore, Provider, Sentry, Retrofit, Picasso, PaperDB, Agora

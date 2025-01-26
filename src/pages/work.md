@@ -149,6 +149,15 @@ Made using: Flutter, Firebase, iOS, Android, Agora RTC
 
 ---
 
+## Show Reels Unity and Blender
+** **
+Demo video of Blender renders - used multiple clones and composition shot, CGI placement of 3D objects in scene, fluid and rigidbody physics simulations, character modelling, rigging and animation. 
+[Blender Showreel 2018](https://youtu.be/eWian83-w_w?si=gqhTnT8FjXTeUoko)
+
+Demo collection of games deployed for Android using Unity, C#, hand-drawn graphics and animations.
+[Unity Android Showreel ](https://youtu.be/iH2kxJ0UlQw?si=gkZOVEH5DxA5cE1C)
+---
+
 ## Golu Molu
 
 **A cutesy, minimalist, health-conscious dodge-em game for Android**  
