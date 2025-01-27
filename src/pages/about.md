@@ -5,7 +5,7 @@ title: "Hello World!"
 
 ## I'm Jawad Aziz Khan
 
-![My Portrait](@assets/images/myport6`.jpg)
+![My Portrait](@assets/images/myport6.jpg)
 
 A passionate Vancouver-based **Software Engineer** who loves crafting creative solutions that make a positive impact.
 
