@@ -1,6 +1,6 @@
 ---
 author: jakfromspace
-title: Shadows and Stardust
+title: Shadows & Stardust
 pubDatetime: 2024-09-23T12:22:00Z
 description: Exploring Creativity, Duality, and the Human Condition
 draft: false
