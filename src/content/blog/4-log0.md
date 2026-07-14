@@ -2,7 +2,7 @@
 author: jakfromspace
 title: LOGfromSpace[0] - Shattering Universe
 pubDatetime: 2025-01-21T15:22:00Z
-description: Mimicking Fromsoft, Nintendo and
+description: Mimicking Fromsoft, Nintendo and the Greats
 draft: true
 tags:
   - space knight

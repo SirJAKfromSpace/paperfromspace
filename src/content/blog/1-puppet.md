@@ -1,7 +1,7 @@
 ---
 author: jakfromspace
 title: The Puppet's Path
-pubDatetime: 2024-08-27T14:05:40-07:00
+pubDatetime: 2023-06-21T14:05:40-07:00
 description: Unraveling the Threads of Consciousness and the Soul
 draft: false
 tags:
