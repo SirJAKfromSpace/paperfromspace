@@ -6,68 +6,66 @@ The markdown core and codebase powering [jakfromspace.me](https://jakfromspace.m
 
 `paperfromspace` is the source repository for my portfolio and personal blog. It acts as a bridge between technical design and creative introspection. The site showcases mobile and full-stack engineering work while serving as a home for essays on philosophy, duality, and technology.
 
-
-
 ## 🛠️ Tech Stack & Architecture
 
 The site is built to be fast, responsive, and easily deployable:
 
-- **Frontend/SSG:** [Insert Framework, e.g., Astro / Hugo / Next.js] — Optimized for speed, modern typography, and dark-mode aesthetics.
+- **Frontend/SSG:** Astro + Next.js — Optimized for speed, modern typography, and dark-mode aesthetics.
 
-- **Styling:** Custom CSS / Tailwind CSS for a minimal, space-inspired, distraction-free reading experience.
+- **Styling:** A bit of custom CSS + Tailwind CSS for a minimal, space-inspired, distraction-free reading experience.
 
 - **Content Pipeline:** File-based Markdown processing with YAML front-matter metadata tracking publication dates, tags, and reading times.
 
-- **Deployment:** Managed via [Insert Platform, e.g., GitHub Pages / Vercel / Netlify] with automated CI/CD workflows.
-
+- **Deployment:** Managed via Vercel and Github integration with automated CI/CD workflows and a personal domain.
 
 ## 📂 Project Structure
 
-  ```
-  ├── content/               # Markdown files for posts (Shadows & Stardust, etc.)
-  │   └── posts/
-  ├── public/                # Static assets, images, and brand graphics
-  ├── src/                   # Source components, layouts, and style configurations
-  │   ├── components/        # Reusable UI elements (Navigation, Post Cards)
-  │   ├── layouts/           # Page templates (Blog layout, Portfolio layout)
-  │   └── styles/            # Global styling and themes
-  ├── package.json           # Project dependencies and build scripts
-  └── README.md              # You are here
-  ```
+```
+├── content/               # Markdown files for posts (Shadows & Stardust, etc.)
+│   └── posts/
+├── public/                # Static assets, images, and brand graphics
+├── src/                   # Source components, layouts, and style configurations
+│   ├── components/        # Reusable UI elements (Navigation, Post Cards)
+│   ├── layouts/           # Page templates (Blog layout, Portfolio layout)
+│   └── styles/            # Global styling and themes
+├── package.json           # Project dependencies and build scripts
+└── README.md              # You are here
+```
 
 ## 💻 Local Development
 
 To spin up the site locally for testing or previewing drafts:
 
 1. **Clone the repository:**
-  ```
-  git clone [https://github.com/SirJAKfromSpace/paperfromspace.git](https://www.google.com/search?q=https://github.com/SirJAKfromSpace/paperfromspace.git)
-  cd paperfromspace
-  ```
+
+```
+git clone [https://github.com/SirJAKfromSpace/paperfromspace.git](https://www.google.com/search?q=https://github.com/SirJAKfromSpace/paperfromspace.git)
+cd paperfromspace
+```
 
 2. **Install dependencies:**
 
-  ```
-  npm install
-  ```
+```
+npm install
+```
 
 3. **Start the development server:**
 
-  ```
-  npm run dev
-  ```
+```
+npm run dev
+```
 
 _Open http://localhost:3000 (or the terminal-assigned port) to view the site._
 
 4. **Build for production:**
 
-  ```
-  npm run build
-  ```
+```
+npm run build
+```
 
 ### ✍️ Featured Writing & Themes
 
-The blog architecture handles deeply thematic, rich-text markdown entries. Key themes include:
+The blog architecture handles deeply thematic, rich-text markdown entries on things like psychology and media representations. Key themes include:
 
 - **The Human Condition & Duality:** Pieces like _Shadows & Stardust_, navigating the balance of logic and artistic expression.
 
@@ -77,7 +75,7 @@ The blog architecture handles deeply thematic, rich-text markdown entries. Key t
 
 ## 🌌 About the Author
 
-I'm **Jawad Aziz Khan**, a Software Engineer specializing in mobile and full-stack development (Flutter, Node.js, Python). I build scalable technical solutions by day and ponder the intersections of logic, gaming, and creative philosophy by night.
+I'm **Jawad Aziz Khan**, a Software Engineer specializing in mobile and full-stack development (Flutter, Node.js, Python). I build scalable technical solutions by day and ponder the intersections of art, gaming, philosophy and creative psychology by night.
 
 - 🌐 **Website:** [jakfromspace.me](https://jakfromspace.me/)
 - 🐙 **GitHub:** [@SirJAKfromSpace](https://github.com/SirJAKfromSpace)
