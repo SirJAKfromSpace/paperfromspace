@@ -65,7 +65,7 @@ We are told "the cloud" offers effortless convenience. In truth, _there is no cl
 
 When corporate cartels treat paid customers as temporary renters, the social contract breaks. This has catalyzed a massive ethical shift across developer and artist communities: **if buying isn't owning, then piracy isn't stealing.**
 
-Communities built around this ethic ("liberated media dang yes!" IYKYK) — decentralized archives, mirror networks, and torrent trackers — are no longer just about getting free stuff; they function as digital conservation projects. When streaming conglomerates lock archival cinema and classic videogame ROMs behind six different paywalls or quietly remove legendary historical media entirely from their official catalogue, torrents become the _only_ such surviving copies of pieces of human culture.
+Communities built around this ethic ("free media dang yes!" IYKYK) — decentralized archives, mirror networks, and torrent trackers — are no longer just about getting free stuff; they function as digital conservation projects. When streaming conglomerates lock archival cinema and classic videogame ROMs behind six different paywalls or quietly remove legendary historical media entirely from their official catalogue, torrents become the _only_ such surviving copies of pieces of human culture.
 
 Most of us would gladly pay creators directly for their work — a model seen in platforms like Bandcamp or direct artist support. But subscription fees paid to mega-corporations rarely trickle down to the actual VFX artists, software developers, or musicians who poured their lives into the work. They enrich boardrooms and streaming executives who hold the keys to the library gates.
 
@@ -75,7 +75,7 @@ Why do we tolerate all of this? Because 2020s consumer tech relies on sophistica
 
 This system is particularly toxic for children. Kids deserve access to high-quality, enriching media without being subjected to monthly paywalls or targeted by ad-driven "brainrot." On ad-supported free-tier platforms, children's content is systematically optimized for engagement metrics, feeding them hyper-stimulating, low-effort content wrapped in endless commercial breaks and tracking scripts. The alternative shouldn't be paying $150 a month across eight streaming subscriptions just so your family can watch a movie uninterrupted.
 
-## 6. The Cloud Photo Trap: A VFX Engineer's Critique
+## 6. The Cloud Photo Trap
 
 Cloud photo services (Google Photos, Apple iCloud) exemplify this corporate trap. They offer zero-friction setup: snap a photo, and it vanishes into the cloud. But as high-megapixel camera sensors (48MP+ mobile, 60MP+ mirrorless) become standard, photo libraries balloon into hundreds of gigabytes or terabytes. Once you cross the 15GB free tier, you enter an ascending subscription ladder ($2.99/mo, $9.99/mo, $19.99/mo) that you can never leave without risking the loss of a decade of family memories.
 
