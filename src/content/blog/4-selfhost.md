@@ -21,17 +21,11 @@ tags:
 
 ## Table of Contents
 
-# Renting the Horizon: Late-Stage Capitalism, Digital Feudalism, and the Solarpunk Case for Self-Hosting
-
----
-
 There is a quiet, pervasive friction underlying almost every interaction we have with modern technology. Every morning, we wake up to a barrage of push notifications demanding subscription renewals, cloud storage warnings alerting us that our "quota is 92% full," and algorithmically tailored feeds prompting us to purchase sleek smart-home accoutrements to aestheticize our existential dread. We live in an era where we buy devices we do not control, stream media we do not own, and entrust our most intimate personal archives to cloud monopolies that treat our memories as recurring revenue line items.
 
 As a CS grad working deep inside the film visual effects (VFX) pipeline, my day-to-day life revolves around digital assets — bit depths, storage balancing, high-throughput render farms, and distributed data orchestration. But as an artist, gamer, and lifelong tech enthusiast, I find myself deeply disillusioned by the trajectory of 2020s consumer technology. We have seamlessly transitioned from classical capitalism into a hyper-centralized, rent-seeking regime of **Digital Feudalism**.
 
 The solution, however, is not tech-aversion or ludditism — it is **digital sovereignty** through open-source self-hosting, utility minimalism, and a green Solarpunk ethos.
-
----
 
 ## 1. The Architecture of Obsolescence: From Lightbulbs to Serialized Hardware
 
@@ -42,8 +36,6 @@ A century later, Silicon Valley refined this practice into a fine art. The moder
 Furthermore, hardware serialization (part-pairing) has systematically gutted the Right to Repair. Modern smartphones link individual display chips, camera modules, and batteries to the logic board via cryptographic keys. Swap an original OEM screen between two identical phones, and software will throw warnings or disable features like TrueTone and biometrics. The US Federal Trade Commission (FTC) confirmed this predatory reality in its landmark 2021 _Nixing the Fix_ report, finding scant evidence to support manufacturer claims that repair restrictions protect safety or privacy [3].
 
 It doesn't have to be this way — companies like **Framework**, with laptops built around swappable, user-replaceable modules and openly published repair guides, prove that serviceable hardware is still commercially viable. Before your next purchase, a quick check of a device's **iFixit repairability score** tells you in seconds whether you're buying a tool or a ticking obsolescence timer.
-
----
 
 ## 2. The Evaporation of Physical Media & the "Code-in-a-Box" Illusion
 
@@ -63,33 +55,25 @@ Not everyone has accepted this quietly. After _The Crew_'s shutdown, YouTuber Ro
 
 It's also worth noting that ownership-respecting storefronts aren't hypothetical: **GOG (Good Old Games)** sells DRM-free downloads that are yours to keep, install offline, and play in thirty years with no client, license check, or company required — proof that the industry's current direction is a choice, not a technical necessity.
 
----
-
 ## 3. Cloud Centralization & the Shrinking Home Computer
 
-In the 1990s and early 2000s, the personal computer was an open canvas. Users owned the file system, operated with administrator/root privileges, executed local applications, and stored data on local spinning hard drives. Today, the general-purpose computer is being rapidly replaced by sandboxed mobile operating systems and thin clients tethered to three corporate cloud hyperscalers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+In the 1990s and early 2000s, the personal computer was an open canvas. Users owned the file system, operated with administrator/root privileges, executed local applications, and stored data on local spinning hard drives. Today, the general-purpose computer is being rapidly replaced by sandboxed mobile operating systems, shell devices with little to no brains inside that stream content to it and thin clients tethered to corporate cloud hyperscalers - a la Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
-We are told "the cloud" offers effortless convenience. In truth, _there is no cloud — it is just someone else's computer_. Centralized cloud infrastructure abstracts away local compute, replaces transparent file systems with opaque app sandboxes, and imposes perpetual rent on data storage and compute cycles. It isolates users from understanding how their own software operates, fostering a culture of technological helplessness — the same helplessness that makes the license revocations in Section 2 feel inevitable rather than outrageous.
-
----
+We are told "the cloud" offers effortless convenience. In truth, _there is no cloud — it is just someone else's computer_. Centralized cloud infrastructure abstracts away local compute, replaces transparent file systems with opaque app sandboxes, and imposes perpetual rent on data storage and compute cycles. It isolates users from understanding how their own software operates, fostering a culture of technological helplessness — the same helplessness that makes the license revocations in the former Section feel inevitable rather than outrageous.
 
 ## 4. "If Buying Isn't Owning, Piracy Isn't Stealing": Cultural Salvage in an Age of Enclosure
 
 When corporate cartels treat paid customers as temporary renters, the social contract breaks. This has catalyzed a massive ethical shift across developer and artist communities: **if buying isn't owning, then piracy isn't stealing.**
 
-Communities built around this ethic — decentralized archives, mirror networks, and torrent trackers — are no longer just about getting free stuff; they function as digital conservation projects. When streaming conglomerates lock archival cinema behind six different paywalls or delete historical shows entirely, torrents become the _only_ surviving copies of pieces of human culture.
+Communities built around this ethic ("liberated media dang yes!" IYKYK) — decentralized archives, mirror networks, and torrent trackers — are no longer just about getting free stuff; they function as digital conservation projects. When streaming conglomerates lock archival cinema and classic videogame ROMs behind six different paywalls or quietly remove legendary historical media entirely from their official catalogue, torrents become the _only_ such surviving copies of pieces of human culture.
 
 Most of us would gladly pay creators directly for their work — a model seen in platforms like Bandcamp or direct artist support. But subscription fees paid to mega-corporations rarely trickle down to the actual VFX artists, software developers, or musicians who poured their lives into the work. They enrich boardrooms and streaming executives who hold the keys to the library gates.
-
----
 
 ## 5. Algorithmic Extraction, Brainrot, and the Enclosure of Childhood
 
 Why do we tolerate all of this? Because 2020s consumer tech relies on sophisticated behavioral conditioning. Algorithmic feeds — TikTok, Instagram Reels, YouTube Shorts — use variable-ratio reinforcement schedules, the exact psychological mechanism that makes slot machines addictive. They flood our consciousness with hyper-curated, maximalist consumerism: aesthetic smart-home visualizers, 12-step skincare routines, $3,000 desk setups, constant hardware upgrades. They make us fetishize expensive, fragile lifestyles while distracting us from the reality that our real-world autonomy is evaporating — aesthetic maximalism disguising spiritual and financial depletion.
 
 This system is particularly toxic for children. Kids deserve access to high-quality, enriching media without being subjected to monthly paywalls or targeted by ad-driven "brainrot." On ad-supported free-tier platforms, children's content is systematically optimized for engagement metrics, feeding them hyper-stimulating, low-effort content wrapped in endless commercial breaks and tracking scripts. The alternative shouldn't be paying $150 a month across eight streaming subscriptions just so your family can watch a movie uninterrupted.
-
----
 
 ## 6. The Cloud Photo Trap: A VFX Engineer's Critique
 
@@ -104,8 +88,6 @@ As a VFX engineer accustomed to working in 32-bit floating-point ACEScg color sp
 3. **Color Space Degradation:** Camera sensors capture wide gamut spaces (ProPhoto RGB, Rec.2020). Cloud compression forces conversion into narrow sRGB spaces, stripping rich cyan and deep magenta hues.
 4. **Exposure & Metadata Mutilation:** Cloud transcoders strip embedded camera profiles, custom white-balance tables, and EXIF metadata required for proper color grading in Nuke, Lightroom, or DaVinci Resolve.
 
----
-
 ## 7. The AI Compute Paradox & Solarpunk Philosophy
 
 The current hype cycle surrounding Generative AI represents another massive vector for cloud dependency. Monolithic cloud models require thousands of megawatt-hours of electricity and millions of gallons of datacenter cooling water. They turn high-utility technology into an environmental strain managed by a handful of corporate cartels.
@@ -113,8 +95,6 @@ The current hype cycle surrounding Generative AI represents another massive vect
 Against this maximalist trajectory stands **Solarpunk** — a socio-technological vision that advocates for green sustainability, digital socialism, human-centric design, and technology in service of community rather than capital. Solarpunk asks: _how can we utilize cutting-edge technology while minimizing environmental footprint, eliminating corporate rent extraction, and fostering genuine human connection?_
 
 The answer begins with digital self-reliance: local compute, utility minimalism, open-source software, and home infrastructure.
-
----
 
 ## 8. The Digital Sovereignty Starter Kit
 
@@ -174,8 +154,6 @@ Self-hosting is the deep end, but plenty of the underlying philosophy travels wi
 
 None of this requires ideological purity. Picking two or three is already a meaningful exit from the treadmill.
 
----
-
 ## 9. Personal Reflections: How Self-Hosting Reclaims Life and Community
 
 When I deployed my first local Docker stack running Jellyfin and Immich, the psychological shift was immediate. Movie nights in my home transformed from thirty-minute scrolling sessions through algorithmic catalogues — only to discover the title you wanted was quietly removed last week — into smooth, high-bitrate cinematic experiences with uncompressed surround sound.
@@ -184,15 +162,11 @@ My family and kids can now watch classic animation and educational media without
 
 More importantly, self-hosting embodies Solarpunk in action. It transforms computing from a passive subscription into an active craft of digital stewardship. It fosters real human connection: hosting shared family photo albums where relatives can access uncompressed memories without ads; running a local server that consumes a modest 15 watts of power; and sharing open-source tools with friends so they, too, can reclaim their own hardware.
 
----
-
 ## 10. Conclusion: Reclaim Your Byte
 
 We do not have to accept a future where every aspect of our digital lives is metered, monetized, and revoked at corporate whim. Late-stage capitalism thrives on learned helplessness, persuading us that convenience is worth the surrender of ownership, privacy, and control.
 
 By hosting your own media, backing up your uncompressed photographs, blocking predatory ad-tech, choosing repairable hardware, and supporting open-source commons, you step off the consumer dopamine treadmill. You reclaim your data, your agency, and your piece of the digital horizon.
-
----
 
 ### References & Citations
 
