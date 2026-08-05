@@ -81,7 +81,7 @@ Cloud photo services (Google Photos, Apple iCloud) exemplify this corporate trap
 
 ### Technical Deep-Dive: How Cloud Compression Ruins Photography
 
-As a VFX engineer accustomed to working in 32-bit floating-point ACEScg color spaces and uncompressed linear EXR frames, watching consumer cloud platforms handle photography is agonizing. When platforms apply "Storage Saver" lossy compression, they perform destructive transformations:
+As a VFX engineer and art enthusiast with a considerable amount of digital imaging knowledge, watching these consumer cloud platforms handle photography is agonizing. When platforms apply "Storage Saver"-type lossy compression, they perform destructive transformations:
 
 1. **Bit-Depth Quantization:** 12-bit or 14-bit RAW camera files (e.g., Canon `.CR3`, Sony `.ARW`) are crushed into 8-bit JPEG/WebP formats. This drops color resolution from 68.7 billion colors down to a paltry 16.7 million, causing severe posterization and color banding across subtle sky gradients and skin tones.
 2. **Dynamic Range & Highlight Clipping:** Sensor RAW data preserves latitude in highlight roll-offs and deep shadow details. Lossy compression tone-maps these curves aggressively, blowing out highlights and baking noise-reduction artifacts directly into shadow tones.
@@ -104,29 +104,12 @@ Reclaiming your digital life does not require a Ph.D. in computer science or a $
 
 Before buying any hardware, take back control of your client browser:
 
-- **Brave Browser / uBlock Origin:** Block tracking scripts, ad-tech fingerprinting, and algorithmic distractions at the network level. Eliminating corporate surveillance telemetry is step one in escaping the dopamine treadmill.
+- **Brave Browser / uBlock Origin:** Block tracking scripts, ad-tech fingerprinting, and algorithmic distractions at the network level. Eliminating corporate surveillance telemetry is step one in escaping the dopamine treadmill. If you're feeling "braver" also get Qbittorrent and find those aforementioned "liberated media" community sites to keep your favorite stuff saved offline in your own devices.
 
 ### Phase 1: Jellyfin — Personal Streaming Media System
 
 - **What it is:** Jellyfin is a 100% Free and Open Source Software (FLOSS) media system. Unlike Plex — which collects telemetry, requires account login through central servers, and paywalls hardware transcoding behind "Plex Pass" — Jellyfin has no tracking, no subscription tiers, and zero remote dependencies.
 - **Features:** Full hardware-accelerated transcoding (Intel QSV, NVENC, VAAPI), multi-user profiles, seamless subtitle rendering, and native client apps for Smart TVs, mobile devices, and browsers.
-
-```yaml
-# docker-compose.yml for Jellyfin
-version: "3.8"
-services:
-  jellyfin:
-    image: jellyfin/jellyfin:latest
-    container_name: jellyfin
-    user: 1000:1000
-    network_mode: host
-    volumes:
-      - ./config:/config
-      - ./cache:/cache
-      - /media/movies:/data/movies
-      - /media/tvshows:/data/tvshows
-    restart: unless-stopped
-```
 
 ### Phase 2: Immich — High-Performance Self-Hosted Photo & Video Backup
 
