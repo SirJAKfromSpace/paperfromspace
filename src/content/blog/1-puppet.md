@@ -2,7 +2,7 @@
 author: jakfromspace
 title: The Puppet's Path
 pubDatetime: 2023-06-21T14:05:40-07:00
-description: Unraveling the Threads of Consciousness and the Soul
+description: Unraveling the Strings of Consciousness and the Soul
 draft: false
 tags:
   - metaphysics
@@ -27,92 +27,81 @@ tags:
   - Hidetaka Miyazaki
 ---
 
-## Unraveling the Strings of Consciousness and Soul
-
-![from Guillermo Del Torro's Pinocchio, The Angel and The Cricket](@assets/images/forblog/0-pinocc.jpg)
-
-In the labyrinth of human consciousness, where strings of fate intertwine with the puppetry of the psyche, we find ourselves dancing to the tune of an unseen maestro. But what if, like Pinocchio, we could cut those strings and become real? This journey into the depths of the mind, from the whispers of our inner voice to the roar of our unconscious divinity, might just be the key to unlocking our true potential. (And congrats you've unlocked a Potential Spoiler Alert for the following: Elden Ring, Attack On Titan, Arrival (2016, Film), and Pinocchio I suppose?)
+## Unraveling the Strings of Consciousness and the Soul
 
 ## Table of Contents
 
-## The Wooden Boy's Whisper: Carl Jung and the Voice in Your Head
+## From Guillermo del Toro's Pinocchio, the Angel, and the Cricket
 
-Picture this: You're standing before a mirror, scrutinizing your reflection. Suddenly, your mind buzzes with thoughts:
-"Woah. Is that really me? Those eyes — they seem... different today. Maybe it's the lack of sleep. No - not tired, but a little angry? Remember the stupid stuff you blurted yesterday? Ugh, why did you say that? That wasn't the real you. You weren't being authentic, were you? Or were you just playing a "role" you think others expect? Maybe you should've — nah, now you're overthinking it. But am I...?"
+![from Guillermo Del Torro's Pinocchio, The Angel and The Cricket](@assets/images/forblog/0-pinocc.jpg)
 
-This rapid-fire internal dialogue, this ceaseless chatter in your own mind, (rather than dialogue) is your inner monologue. It's your own personal Jiminy Cricket, not just a cute Disney sidekick, but a relentless narrator and judge, analyzing your every move. "Always let your conscience be your guide," Jiminy famously advised. But what if your conscience is more than just a moral compass? What if it's the voice of something greater within you, trying to nudge you towards your true self?
+In the labyrinth of human consciousness, where strings of fate intertwine with the puppetry of the psyche, we find ourselves dancing to the tune of an unseen maestro. But what if, like Pinocchio, the point was never to cut those strings — only to learn whose hand is on them?
+
+_(Spoiler warning for Elden Ring, Attack on Titan, Arrival, and Pinocchio — though if you haven't finished any of these by now, that might be its own kind of unfinished business.)_
+
+A puppet has four strings, same as the cross that holds them. One runs to the voice — the small, insistent thing that narrates you to yourself before you've decided who you are. One runs to the blood — the old wounds, alchemized or not, that pull your limbs in directions you didn't choose. One runs to the web — the vast, tangled network of every other puppet whose fate has ever brushed against yours. And one runs straight up, past whatever hand is holding the cross, into something that might be fate, might be physics, might be nothing at all — the string of time, the one that decides whether you're moving on your own or simply on schedule. Cut all four, and you don't become real. You just fall down. What follows is an attempt to trace where each string leads, and what it might mean to hold them yourself instead of being held by them.
+
+## I. The String of Voice: Jung and the Cricket on Your Shoulder
 
 ![Carl G. Jung](@assets/images/forblog/0-jungd.jpg)
 
-Carl Jung, the Swiss psychiatrist whose insights into the human psyche make my own inner monologue sound like a toddler's babbling, had a lot to say about this internal chatterbox. While most of us use our inner voice to convince ourselves of the merits of a fifth slice of pizza, Jung saw it as something far more profound. He believed it was a crucial component of what he called the "Divine Self", and maybe the constant nagging could very well get us there.
+Picture this: you're standing in front of a mirror, scrutinizing your own reflection, and your mind starts running its mouth. _Is that really me today? Why did I say that yesterday — that wasn't the real you, was it? Or was it exactly you, just a version you haven't agreed to yet?_
 
-In Jung's view, this inner voice is like a GPS for the soul, guiding us towards what he termed "individuation" - the process of becoming our true, authentic selves. It's as if we're all walking around with a tiny Jung in our heads, urging us to "be yourself" long before it became an Instagram caption.
+That ceaseless internal chatter is more than background noise. It's closer to a court reporter who never clocks out — narrating, judging, cross-examining your every move. Jiminy Cricket called it _conscience_, and told Pinocchio to always let it be his guide. But what if conscience isn't only a moral compass? What if it's the voice of something larger trying to get your attention?
 
-But here's where it gets interesting: this voice isn't always your BFF. Sometimes, it's the voice of your inner critic, the one that tells you your new haircut makes you look like a sentient mop. Other times, it's the voice of your unconscious, bubbling up like a geyser of repressed thoughts and desires.
+Carl Jung — whose insight into the human psyche makes my own inner monologue sound like a toddler's babbling — took that voice seriously. Where most of us use it to negotiate the ethics of a fifth slice of pizza, Jung heard something closer to a signal: a thread connecting the conscious ego to what he called the _Self_, the fuller, integrated person we are capable of becoming. He called the process of following that thread **individuation**. It's less a single epiphany and more a lifelong argument you have with yourself, in which the goal isn't to win, but to keep listening.
 
-In Guillermo del Toro's "Pinocchio" (2022), we see this concept spring to wooden life. The cricket isn't just an external adviser, but a manifestation of Pinocchio's growing consciousness, guiding him through the tangled forest of morality and mortality. With every choice, every mistake, and every triumph, Pinocchio's inner voice grows stronger, more complex, more... human. As he grapples with his wooden inclinations versus his desire to be "real," we see a poignant representation of Jung's individuation process in action.
+That voice isn't always kind. Sometimes it's your inner critic, informing you that your new haircut makes you look like a sentient mop. Sometimes it's the unconscious itself, surfacing like a geyser of thoughts you didn't ask for and can't fully explain. Guillermo del Toro's _Pinocchio_ (2022) makes this literal: the cricket isn't an external adviser bolted onto the story for comic relief, he's a manifestation of Pinocchio's own emerging awareness, walking beside him through a forest of mortality and moral error. With every mistake and every small triumph, the wooden boy's inner voice grows less like an instruction manual and more like a self — which is, not coincidentally, exactly what Jung meant by individuation in action.
 
-## The Alchemist's Crucible: Transforming the Lead of Trauma into the Gold of Growth
+## II. The String of Blood: Alchemy and the Marriage of Opposites
 
 ![Elden Ring](@assets/images/forblog/0-elden.jpg)
 
-Now, let's plunge deeper into the dark recesses of the psyche, where Jung's theories cozy up to the ancient, mystical art of alchemy. No, we’re not talking about turning lead into gold (although, seriously, if you crack that one, call me). We’re talking about the alchemy of the soul—Jung’s favorite metaphor for psychological transformation.
+If the voice is the string that calls you forward, the blood is the string that drags you back — into the parts of yourself you'd rather not look at directly.
 
-Jung saw a fascinating parallel between the alchemical process and the way we grow through the pain of inner conflict. Just as alchemists sought to purify base metals, Jung believed we can transform our psyche by integrating opposing forces within us. He called this the coniunctio, the “marriage of opposites.” It sounds like the title of a quirky indie rom-com, but it’s really the heart of personal transformation.
+Jung borrowed heavily from alchemy here, not because he believed in turning lead into gold (though if you crack that one, do call), but because he found it to be the best metaphor humanity had ever produced for psychological transformation. Alchemists purified base matter by forcing opposing elements into contact until something new emerged. Jung called the psychic equivalent the **coniunctio** — the marriage of opposites — and it sounds like the title of a very strange rom-com, but it's really just the anatomy of growing up: masculine and feminine, light and dark, the part of you that wants to be good and the part of you that already knows you aren't, forced into the same room until they stop being enemies.
 
-This concept of duality is perfectly encapsulated in Elden Ring, where the shattered world of the Lands Between mirrors the fragmented psyche Jung loved to talk about. Take Radagon and Marika, two halves of the same divine being, representing both the masculine and feminine energies in constant conflict and eventual union. Their struggle isn’t just lore—it’s a symbol of our inner war between opposing instincts, the battle between light and dark, creation and destruction, and even sanity and madness. Your character, a lowly Tarnished, must confront these fractured pieces of divinity and attempt to mend the Elden Ring. It’s no accident that this mirrors Jung’s idea of individuation: the process of confronting and integrating the disparate, often wounded, parts of ourselves into a cohesive whole.
+_Elden Ring_ renders this almost too literally to be called subtext. Radagon and Marika — two halves of one divine being, locked in the Lands Between's central wound — are the coniunctio given a face and a boss health bar. Your character, a nameless Tarnished, doesn't win by destroying one half in favor of the other. You win, if you can call it that, by mending the Ring — by forcing the fractured pieces of a single fractured god back into something whole. It's individuation with a moonlight greatsword.
 
-And if you think this process is all smooth sailing, guess again. Much like the Tarnished fighting through hordes of grotesque enemies and nightmarish bosses, Jung understood that growth comes through grappling with our deepest wounds. Think of Blaidd the Half-Wolf, whose loyalty to Ranni and her dark path causes him to descend into madness, illustrating Jung’s warning: “There is no coming to consciousness without pain”. And so much more lore yet remains to be uprooted in the Shadow of the Erdtree DLC that will make even the most silver-blooded Tarnished question everything they thought they knew about the Marika and The Lands Between.
+But the game's most honest statement about this process isn't Radagon at all. It's Blaidd. His loyalty to Ranni is total, and it's exactly that totality that unravels him — he follows her into a plan that requires him to become something less than himself, and by the time you find him, wolf and man have stopped negotiating with each other. He isn't punished for his devotion. He's undone by refusing to let any part of himself disagree with it. Jung had a warning for exactly this: there is no coming to consciousness without pain, but there is also no consciousness at all in devotion that never argues with itself. Blaidd is what the coniunctio looks like when only one side of the marriage ever shows up.
 
-## The Paths of Destiny: Attack on Titan and the Collective Unconscious
+## III. The String of Web: The Paths and the Collective Unconscious
 
 ![Attack on Titan - Paths](@assets/images/forblog/0-paths.webp)
 
-Speaking of pain—Attack on Titan. Here, trauma is baked into the DNA of the world, quite literally. The series introduces us to “the paths,” a metaphysical network linking all Titans (Subjects of Ymir), a chilling representation of Jung’s concept of the collective unconscious. While Jung described this unconscious as a shared well of human experience, Attack on Titan takes it a step further: these paths connect memories, identities, and even physical bodies across time and space.
+The third string doesn't run to you at all. It runs sideways, to everyone else.
 
-Remember Eren Yeager's journey? His eventual access to the Founding Titan gives him not only the power to alter reality but also the burden of seeing how tightly his fate is entwined with the lives and destinies of those who came before him. Eren’s manipulation of the past to ensure his future echoes Jung's idea that the unconscious mind doesn’t adhere to linear time. In both Jungian theory and Attack on Titan, the past, present, and future are interwoven, with the paths acting like a kind of psychic Wi-Fi signal that everyone’s connected to—whether they like it or not.
+_Attack on Titan_ takes Jung's collective unconscious — his idea of a shared psychic reservoir beneath individual minds — and gives it a name, a texture, and a body count. "The Paths" connect every Titan, every Subject of Ymir, across memory, identity, and physical space, collapsing the distance between any two people who share that inherited blood. It's the collective unconscious with a signal strength, and it comes with a very Jungian catch: the unconscious doesn't obey the clock. Past, present, and future braid together on the Paths exactly the way Jung believed they braid together in dreams and myth.
 
-Characters like Zeke and Eren raise a thorny issue: do they have true free will, or are they just prisoners of a script etched into the paths long ago? Jung would probably tell you that while we may be shaped by unconscious forces, recognizing those forces gives us the chance to change our fate. It's Eren’s ultimate realization—his tragic awareness of being bound by both history and his own choices—that leads to one of the most complex examinations of free will in modern media.
+Eren Yeager's arc is what happens when a person is handed unrestricted access to that network. He doesn't just remember his ancestors' choices — he becomes able to rewrite his own future by reaching backward through them, which raises the question the whole series is quietly built around: is Eren choosing his fate, or is he the last domino in a chain that was falling long before he existed? Jung's answer, I think, would be neither pure freedom nor pure fatalism. The forces shaping us are largely unconscious — but naming them is itself a kind of freedom, maybe the only kind available. Eren's tragedy isn't that he was bound by history. It's that by the time he understood the binding, he'd already mistaken breaking it for the same thing as escaping it.
 
-So, whether you're dodging the moonlight greatsword in Elden Ring or grappling with the existential dread of the Coordinate in Attack on Titan, the question remains: Are we shaping our destiny, or merely following threads woven long before we were even aware of them?
-
-## Quantum Leaps and Free Will: The Physics of Consciousness
+## IV. The String of Time: Quantum Physics, Arrival, and the Shape of Choice
 
 ![Quantum Mechanics and Parallel Universes](@assets/images/forblog/0-quantum.webp)
 
-Enter quantum physics, stage left. In his book "Quantum Physics Made Me Do It," physicist Jérémie Harris explores the mind-bending implications of quantum mechanics on our understanding of free will and consciousness.
+Three strings held, then — voice, wound, web. But the fourth doesn't run sideways to anything. It runs straight up, out of the frame entirely, toward whatever it is that decides when the show starts. Is that fate? Physics? Something closer to us than either?
 
-Quantum physics introduces an element of fundamental unpredictability to the universe. At the quantum level, particles exist in a state of superposition, simultaneously occupying multiple states until observed. This quantum weirdness has led some thinkers to propose that consciousness itself might be a quantum phenomenon.
+At the quantum level, particles exist in superposition — genuinely undecided — until something observes them into a single outcome. It's tempting to reach for this as proof of free will, a kind of physics-flavored escape hatch from determinism. I don't think that holds up, and I don't think it needs to. Trading strict causality for quantum randomness doesn't make a choice _yours_ — a coin flip isn't freedom, it's just a different kind of chain. But the _shape_ of the phenomenon is worth keeping anyway: nothing is settled until it's observed. Held long enough in superposition, a life is still made of live possibilities. The self isn't a wave function collapsing under some outside physicist's gaze — it's the rare case where the observer and the observed are the same event. Choosing doesn't prove you're free of causality. It's what causality looks like from the inside.
 
-If our thoughts and decisions are influenced by quantum processes in our brains, does this restore our sense of free will, or does it simply replace determinism with randomness? It's enough to make you want to take a quantum leap right out of this philosophical conundrum.
+Denis Villeneuve's _Arrival_ pushes on this from the other direction. Louise Banks learns a language built on non-linear time, and in doing so loses the comfortable fiction that her life is a sequence of surprises happening _to_ her. She sees the whole shape of it — grief included — and chooses it anyway. That's close to what Nietzsche meant by _amor fati_, though _Arrival_ arrives at it through an alien's ink circle instead of a German aphorism: the point was never to know the future in order to avoid it. It was to know it well enough to still say yes.
 
-## Arrival: The Linguistic Dance of Time and Consciousness
+## V. Synthesis: Becoming Real
 
-![Shot from Arrival (2016)](@assets/images/forblog/0-arrival.webp)
+![Del Toro's Pinocchio on stage](@assets/images/forblog/1-pinocc2.jpg)
 
-Let's bring this cerebral journey into the realm of science fiction with a nod to the 2016 film "Arrival," based on Ted Chiang's novella "Story of Your Life." The movie tells the story of a linguist who learns to communicate with alien visitors and, in doing so, gains the ability to perceive time non-linearly.
+So where does that leave the wooden boy — and the rest of us, still checking the mirror, still narrating our own lives back to ourselves in a voice that sometimes sounds like wisdom and sometimes sounds like a toddler negotiating for pizza?
 
-This film serves as a powerful metaphor for our exploration of consciousness. Like Dr. Louise Banks in the movie, we often perceive our lives in a linear fashion, unaware of the cyclical nature of our experiences and the interconnectedness of past, present, and future. But when we "arrive" at a new understanding - through learning a new language, embracing a different culture, or experiencing a paradigm-shifting event - we're confronted with the possibility of perceiving reality in an entirely new way.
+Becoming "real," in the sense Pinocchio wants it, was never about cutting the strings. Voice, blood, web, and time don't disappear the day you become conscious of them — they're not obstacles between you and your true self, they _are_ the material your self is made of. What changes is who's holding the other end. The inner voice stops being a stranger and starts being an instrument. The old wound stops dragging your limbs sideways and starts, slowly, becoming something you can move on purpose. The web of everyone who came before you stops feeling like a script and starts feeling like company. And the string of time stops feeling like a countdown and starts feeling like the shape of a life you get to say yes to.
 
-The film's central concept, that language shapes our perception of reality, echoes the Sapir-Whorf hypothesis in linguistics. It suggests that the structure of our inner monologue and the words we use to describe our experiences might fundamentally alter how we perceive time, causality, and even our own consciousness. In essence, by changing our internal language, we might reshape our very experience of reality.
+That's the whole trick, and it isn't a trick at all: every puppet's four strings meet at a single cross, and nothing says that cross has to stay in someone else's hand. In the grand puppet show of life, you were always both the marionette and the puppeteer. The only real choice is which hand is holding the cross.
 
-## The Synthesis: Your Personal Pinocchio Journey
+---
 
-So, where does this leave us? We've traveled from the whispers of our inner voice to the quantum dance of particles, from the alchemical transformation of the soul to the shared paths of human consciousness. What's the takeaway from this whirlwind tour of the psyche?
+### References
 
-Perhaps it's this: Like Pinocchio, we're all on a journey to become "real." This doesn't mean transforming from wood to flesh, but rather integrating all aspects of ourselves - the light and the dark, the conscious and the unconscious, the inner child and the mature adult.
-
-This journey isn't easy. It requires us to confront our traumas, wrestle with our inner critic, and navigate the labyrinth of our unconscious. But as Jung reminded us, "The privilege of a lifetime is to become who you truly are."
-
-So the next time you hear that little voice in your head, remember: it might just be the key to unlocking your Divine Self. Or it could be telling you to check if you left the stove on. Either way, it's worth listening to.
-
-In the end, whether our actions are guided by quantum physics, collective unconscious paths, or just really good therapy, the journey of self-discovery is uniquely ours. So grab your metaphorical cricket, embrace your inner wooden boy, and step into the alchemy of your own transformation. After all, in the grand puppet show of life, you're both the marionette and the puppeteer.
-
-## References
-
-- C.G. Jung, Collected Works. Princeton University Press, 1953-1979.
-- G. del Toro, Director, Pinocchio. [Film]. Netflix, 2022.
-- FromSoftware, Elden Ring. [Video game]. Bandai Namco Entertainment, 2022.
-- H. Isayama, Attack on Titan. [Manga series]. Kodansha, 2009-2021.
-- J. Harris, Quantum Physics Made Me Do It. [Book] Viking , 2023.
-- D. Villeneuve, Arrival. [Film]. Paramount Pictures, 2016.
+- C.G. Jung, _Collected Works_. Princeton University Press, 1953–1979.
+- G. del Toro, dir., _Pinocchio_. Netflix, 2022.
+- FromSoftware, _Elden Ring_. Bandai Namco Entertainment, 2022.
+- H. Isayama, _Attack on Titan_. Kodansha, 2009–2021.
+- J. Harris, _Quantum Physics Made Me Do It_. Viking, 2023.
+- D. Villeneuve, dir., _Arrival_. Paramount Pictures, 2016.
