@@ -4,6 +4,7 @@ title: Letter of Sympathy for the Devil
 pubDatetime: 2026-07-15T18:15:31Z
 description: Part II - On Shadows, Sovereignty, and Kindness as a Discipline of Understanding
 draft: false
+featured: true
 tags:
   - Lucifer
   - jungian-psychology
@@ -119,6 +120,8 @@ So the antagonist is never really the enemy of a story's design. He's the co-aut
 
 We tend to treat kindness as a soft virtue — sentiment for people who can't handle harder truths. This gets it backwards. Empathy, done properly, is what might be called _epistemic kindness_: an intellectual achievement, the mastery of causality applied to another person's behavior.
 
+![The Death of Socrates, Jacques-Louis David, 1787](@assets/images/forblog/3-deathsocrates.jpg)
+
 Every action a person takes is the output of a long causal chain — trauma, temperament, circumstance, fear — that they did not fully choose and mostly cannot see. Met with blind anger, that behavior just adds one more chaotic variable to an already chaotic system. But traced backward with real attention, it stops looking like malice and starts looking like machinery. This is the deeper meaning of Murdock's blindness: his eyes give him nothing, but his other senses catch the spike of a heartbeat, the catch in a breath — the physical residue of someone else's fear. He doesn't just see the mask people wear. He hears what's underneath it. That is what real understanding costs, and what it buys: not permission for harm, but the end of resentment about it.
 
 Even Wilson Fisk, in his "Good Samaritan" speech, arrives at something like this. He realizes he is neither the priest nor the Levite in the parable, walking past the wounded man — he's the ill intent that wounded him in the first place. And he accepts that role, because a story needs an antagonist as much as it needs a hero. To understand a person fully enough to place them accurately in the story — even as the villain — is itself a form of kindness. It's just kindness with its eyes open.
@@ -149,4 +152,4 @@ This is where Nietzsche's _amor fati_ earns its place beside the Christian image
 
 To whatever raised us — God, or the two people who stood in for Him first — the ask was never innocence. Just this: teach and guide, and trust that the teaching already took, well enough that we'll know the difference if we ever stray. Know that the descent and the climb are the same trip. You've already made the first one. Somewhere on the way back up, stop waiting for the summit to tell you it was worth it. Take the ashes. Paint something with them. Imagine yourself happy now — on the slope, mid-carry, not later, not once it's over.
 
-[ Continue to [Part III - The Domestic Citadel](/posts/5-citadel) ]
+[ Continue to [Part III - The Domestic Citadel](/posts/5-citadel) or read the previous piece [Part I - Shadows & Stardust](/posts/2-art) ]
