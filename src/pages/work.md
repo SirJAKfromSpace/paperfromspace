@@ -3,6 +3,25 @@ layout: ../layouts/WorkLayout.astro
 title: "Career"
 ---
 
+## [Digital Domain](https://digitaldomain.com/)
+
+**Digital Production Administrator**  
+2025 - Current
+
+Visual Effects & Digital Production Infrastructure
+
+> Serves as a key technical support liaison and facility resource manager across high-profile VFX feature film and episodic productions.
+
+Key Responsibilities & Highlights:
+
+- **Render Farm Administration**: Actively monitor, balance, and optimize render farm utilization across facility and cloud compute nodes to eliminate bottlenecks and meet tight delivery schedules.
+- **Client & Show I/O Data Delivery**: Execute multi-site data ingestion, external vendor transfers, and client turnovers for major studios including Marvel Studios, Warner Bros., and Legendary Pictures.
+- **Technical Support & Ticket Escalation**: Triage, diagnose, and resolve technical render issue tickets across internal VFX pipelines (Nuke, Houdini, Maya), acting as an intermediary between artists, production support, and Software/Systems engineering.
+- **Production Storage Management**: Oversee production disk space, balance storage volumes across aggregates, and handle show data lifecycle management.
+- **Pipeline Scripting & Tooling**: Develop custom Python utilities and CLI scripts to monitor local and cloud nodes, automate repetitive I/O validation, frame report parsing, and data movement workflows.
+
+---
+
 ## [Teleperformance](https://www.teleperformance.com/)
 
 **Technical Support Advisor**  
@@ -12,7 +31,6 @@ title: "Career"
 - Expertly managed Apple ID security, iCloud services, and account management issues including two-factor authentication, password recovery, storage management, backup/restore procedures, and family-sharing configuration across multiple devices
 - Coordinated effectively with specialized departments including Engineering, Safety and Health, Account Security, Wallet and Pay, Accessibility and TV Support teams for escalated cases, ensuring optimal resolution of complex technical issues
 - Consistently received positive feedback for clear communication, patience, and empathetic approach while guiding customers through complex technical procedures and successfully de-escalating challenging situations through active listening and a professional demeanour
-
 
 Stack: iOS, iPadOS, WatchOS, macOS, iCloud
 
@@ -28,7 +46,7 @@ Stack: iOS, iPadOS, WatchOS, macOS, iCloud
 - Provided personalized mentorship and support, helping students navigate academic challenges and achieve their educational goals.
 - Evaluated projects and homework assignments for courses focusing on clarity, creativity, and technical accuracy.
 
-Stack: Python, matplotlib, TensorFlow, Keras, numpy, scikitlearn 
+Stack: Python, matplotlib, TensorFlow, Keras, numpy, scikitlearn
 
 ---
 
@@ -59,7 +77,6 @@ Stack: Android, Confluence, Java, XML SOAP, Python, Linux, NLP
 - Managed complex warehouse operations including efficient processing of online orders, inventory management using RF guns, and maintaining accurate digital records
 - Coordinated with management on strategic merchandising initiatives, creating data-driven stock lists and implementing promotional displays to maximize sales performance
 - Utilized integrated POS and kiosk systems for seamless transaction processing, including returns, exchanges, and membership services while maintaining high customer satisfaction
-
 
 ## [Stellar Vision](http://www.stellarvision.com.au)
 
@@ -150,12 +167,15 @@ Made using: Flutter, Firebase, iOS, Android, Agora RTC
 ---
 
 ## Show Reels Unity and Blender
-** **
-Demo video of Blender renders - used multiple clones and composition shot, CGI placement of 3D objects in scene, fluid and rigidbody physics simulations, character modelling, rigging and animation. 
+
+---
+
+Demo video of Blender renders - used multiple clones and composition shot, CGI placement of 3D objects in scene, fluid and rigidbody physics simulations, character modelling, rigging and animation.
 [Blender Showreel 2018](https://youtu.be/eWian83-w_w?si=gqhTnT8FjXTeUoko)
 
 Demo collection of games deployed for Android using Unity, C#, hand-drawn graphics and animations.
 [Unity Android Showreel ](https://youtu.be/iH2kxJ0UlQw?si=gkZOVEH5DxA5cE1C)
+
 ---
 
 ## Golu Molu

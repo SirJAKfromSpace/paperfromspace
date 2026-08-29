@@ -42,9 +42,10 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        Creative software engineer crafting seamless mobile and web experiences.
-        Expertise in Flutter, Node.js, and Python. Passionate problem-solver
-        dedicated to creating impactful, intuitive, sustainable solutions.
+        A Vancouver-based Computer Engineer and Digital Production Administrator
+        who loves crafting creative systems, high-performance infrastructure,
+        and thoughtful writing at the intersection of technology and Jungian
+        psychology.
       </p>
 
       <br />
@@ -56,7 +57,12 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           href="/about"
         >
           About Me
-        </LinkButton>? Or download my <LinkButton
+        </LinkButton> or <LinkButton
+          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
+          href="/work"
+        >
+          My Work
+        </LinkButton>? You can also download my <LinkButton
           className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
           href="/assets/Resume_JawadAzizKhan.pdf"
         >
@@ -132,7 +138,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
             <ul>
               {recentPosts.map(
                 ({ data, slug }, index) =>
-                  index < 4 && (
+                  index < 6 && (
                     <Card
                       href={`/posts/${slug}/`}
                       frontmatter={data}

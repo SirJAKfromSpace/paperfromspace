@@ -2,7 +2,7 @@
 author: jakfromspace
 title: Renting the Horizon
 pubDatetime: 2026-08-04T23:57:22Z
-description: On Digital Feudalism, Planned Obsolescence, and Self-Hosting as an Act of Sovereignty
+description: On Digital Feudalism, Planned Obsolescence, and Self-Hosting as an Act of Anti-Capitalism
 draft: false
 tags:
   - digital-feudalism
