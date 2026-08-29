@@ -118,7 +118,7 @@ Stack: Javascript, Node.js, React, Handlebars, MongoDB, SCSS, Inkscape
 **Volunteer Officer**  
 2017 - 2019
 
-Contributed at special interest group organization centered around research and open source development at North South University during my undergrad. Took four comprehensive game development workshops over the course of two years.
+Contributed as content creator and officer at special interest group organization centered around research and open source development at **North South University** during my undergrad. Delivered comprehensive game development workshops over the course of two years, where we taught how to make 2D and 3D assets in Krita and Blender, code game logic and mechanics in the Unity Engine using C#, and export a playable game demo for multiple platforms.
 
 ---
 
