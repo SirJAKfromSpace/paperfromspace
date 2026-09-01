@@ -146,6 +146,7 @@
     position:relative; z-index:2;
     margin-bottom:14px;
     text-align:center;
+    flex-shrink:0;
   }
   .name-plate .who{
     font-family:'Bungee',sans-serif;
@@ -164,6 +165,7 @@
     position:relative; z-index:2;
     width:100%;
     padding:0 22px 30px;
+    flex-shrink:0;
   }
   .bubble{
     position:relative;
@@ -206,12 +208,15 @@
     position:relative; z-index:2;
     display:flex; align-items:center; justify-content:center;
     margin-bottom:16px;
+    min-height:0;
+    flex-shrink:1;
   }
   .portrait{
     position:relative;
     width:auto;
-    height:clamp(200px, 30vh, 300px);
-    height:clamp(200px, 30dvh, 300px);
+    height:clamp(160px, 26vh, 260px);
+    height:clamp(160px, 26dvh, 260px);
+    min-height:0;
     aspect-ratio:1/1;
     max-width:78%;
     background:rgba(255,255,255,.05);
@@ -250,6 +255,7 @@
     text-align:center;
     padding-bottom:16px;
     letter-spacing:.03em;
+    flex-shrink:0;
   }
 
   .replay-wrap{
@@ -438,7 +444,7 @@
     intro.innerHTML = `
       <div class="burst" style="opacity:.35">${buildBurst('rgba(255,111,165,.4)')}</div>
       <div class="replay-wrap">
-        <div class="portrait" style="height:clamp(200px, 34vh, 320px); border-color:#ff6fa5; box-shadow:0 0 50px rgba(255,111,165,.4), inset 0 0 24px rgba(0,0,0,.35); margin-bottom:6px;">
+        <div class="portrait" style="height:clamp(140px, 22vh, 220px); height:clamp(140px, 22dvh, 220px); border-color:#ff6fa5; box-shadow:0 0 50px rgba(255,111,165,.4), inset 0 0 24px rgba(0,0,0,.35); margin-bottom:6px;">
           <img src="./gifs/kuromi.gif" alt="Kuromi" onerror="this.closest('.portrait').classList.add('gif-missing')">
           <div class="fallback" style="color:#ff6fa5">Kuromi<br><span style="font-size:10px;letter-spacing:.04em;opacity:.85;">drop kuromi.gif in /gifs</span></div>
         </div>
@@ -482,6 +488,10 @@
     outro.innerHTML = `
       <div class="burst" style="opacity:.4">${buildBurst('rgba(255,196,120,.45)')}</div>
       <div class="replay-wrap">
+        <div class="portrait" style="height:clamp(140px, 22vh, 220px); height:clamp(140px, 22dvh, 220px); border-color:#ffc478; box-shadow:0 0 50px rgba(255,196,120,.45), inset 0 0 24px rgba(0,0,0,.35); margin-bottom:6px;">
+          <img src="./gifs/fariza.gif" alt="${NAME}" onerror="this.closest('.portrait').classList.add('gif-missing')">
+          <div class="fallback" style="color:#ffc478">${NAME}<br><span style="font-size:10px;letter-spacing:.04em;opacity:.85;">drop fariza.gif in /gifs</span></div>
+        </div>
         <h2>Happy 17th<br>Birthday, ${NAME}!</h2>
         <p>\u2014 from Yousha bhaia and some of your favorite heroes!</p>
         <button id="replay-btn">Watch again</button>
