@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy 17th Birthday</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Manrope:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg-deep:#100916;
+    --ink:#fff8f0;
+    --ink-dim:#c9bfd6;
+  }
+  *{box-sizing:border-box;}
+  html,body{
+    margin:0;
+    height:100%;
+    background:#05030a;
+    font-family:'Manrope',sans-serif;
+    color:var(--ink);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden;
+  }
+  #phone{
+    position:relative;
+    width:min(94vw, 420px);
+    height:min(94vh, 746px);
+    aspect-ratio:9/16;
+    border-radius:28px;
+    overflow:hidden;
+    background:var(--bg-deep);
+    box-shadow:0 30px 80px rgba(0,0,0,.6), 0 0 0 1px rgba(255,255,255,.06);
+  }
+
+  /* ---------- START SCREEN ---------- */
+  #start{
+    position:absolute; inset:0;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    gap:22px; padding:40px 28px; text-align:center;
+    background:
+      radial-gradient(circle at 30% 20%, rgba(255,111,165,.35), transparent 55%),
+      radial-gradient(circle at 75% 80%, rgba(120,90,255,.35), transparent 55%),
+      var(--bg-deep);
+    z-index:5;
+    transition:opacity .5s ease, visibility .5s;
+  }
+  #start.hidden{opacity:0; visibility:hidden; pointer-events:none;}
+  .eyebrow-mark{
+    font-family:'Bungee',sans-serif;
+    font-size:12px;
+    letter-spacing:.14em;
+    color:#ff9ec7;
+  }
+  #start h1{
+    font-family:'Bungee',sans-serif;
+    font-size:clamp(28px, 8vw, 36px);
+    line-height:1.15;
+    margin:0;
+    text-shadow:0 4px 20px rgba(255,111,165,.4);
+  }
+  #start p.sub{
+    color:var(--ink-dim);
+    font-size:15px;
+    line-height:1.5;
+    margin:0;
+    max-width:280px;
+  }
+  #begin-btn{
+    margin-top:6px;
+    padding:14px 34px;
+    border-radius:999px;
+    border:none;
+    background:linear-gradient(135deg,#ff6fa5,#7a5cff);
+    color:#fff;
+    font-family:'Bungee',sans-serif;
+    font-size:14px;
+    letter-spacing:.04em;
+    cursor:pointer;
+    box-shadow:0 10px 30px rgba(255,111,165,.35);
+  }
+  #begin-btn:active{transform:scale(.97);}
+  .cast-line{
+    color:var(--ink-dim);
+    font-size:12.5px;
+    letter-spacing:.02em;
+    max-width:270px;
+    line-height:1.6;
+  }
+
+  /* ---------- STORY ---------- */
+  #story{
+    position:absolute; inset:0;
+    opacity:0; visibility:hidden;
+    transition:opacity .4s ease, visibility .4s;
+  }
+  #story.active{opacity:1; visibility:visible;}
+
+  .progress-row{
+    position:absolute; top:14px; left:14px; right:14px;
+    display:flex; gap:5px; z-index:20;
+  }
+  .seg{
+    flex:1; height:3px; border-radius:3px;
+    background:rgba(255,255,255,.25);
+    overflow:hidden;
+  }
+  .seg > i{
+    display:block; height:100%; width:0%;
+    background:#fff;
+    border-radius:3px;
+  }
+  .seg.done > i{width:100%;}
+
+  .tap-zone{
+    position:absolute; top:0; bottom:0; width:50%; z-index:15;
+  }
+  .tap-zone.left{left:0;}
+  .tap-zone.right{right:0;}
+
+  .scene{
+    position:absolute; inset:0;
+    display:flex; flex-direction:column; align-items:center; justify-content:flex-end;
+    opacity:0; transform:scale(1.03);
+    transition:opacity .5s ease, transform .6s ease;
+    pointer-events:none;
+  }
+  .scene.current{
+    opacity:1; transform:scale(1);
+    pointer-events:auto;
+  }
+
+  .burst{
+    position:absolute; inset:-20%;
+    z-index:0;
+    opacity:.55;
+    animation:spin 26s linear infinite;
+  }
+  @keyframes spin{ to{ transform:rotate(360deg); } }
+
+  .name-plate{
+    position:relative; z-index:2;
+    margin-bottom:14px;
+    text-align:center;
+  }
+  .name-plate .who{
+    font-family:'Bungee',sans-serif;
+    font-size:22px;
+    letter-spacing:.02em;
+    text-shadow:0 4px 18px rgba(0,0,0,.5);
+  }
+  .name-plate .role{
+    font-size:12px;
+    color:var(--ink-dim);
+    letter-spacing:.06em;
+    margin-top:2px;
+  }
+
+  .bubble-wrap{
+    position:relative; z-index:2;
+    width:100%;
+    padding:0 22px 30px;
+  }
+  .bubble{
+    position:relative;
+    background:rgba(10,6,16,.72);
+    backdrop-filter:blur(6px);
+    border:1px solid rgba(255,255,255,.16);
+    border-radius:6px 20px 20px 20px;
+    padding:22px 20px 20px;
+    font-size:15.5px;
+    line-height:1.55;
+    box-shadow:0 20px 50px rgba(0,0,0,.4);
+  }
+  /* manga-style tail: a skewed spike jutting up-left toward the portrait/name above */
+  .bubble::before{
+    content:'';
+    position:absolute;
+    top:-16px; left:26px;
+    width:0; height:0;
+    border-style:solid;
+    border-width:0 8px 18px 22px;
+    border-color:transparent transparent rgba(10,6,16,.85) transparent;
+    transform:rotate(-22deg);
+    transform-origin:bottom left;
+    filter:drop-shadow(0 -2px 2px rgba(0,0,0,.2));
+  }
+  .bubble::after{
+    content:'';
+    position:absolute;
+    top:-16px; left:25px;
+    width:0; height:0;
+    border-style:solid;
+    border-width:0 8px 18px 22px;
+    border-color:transparent transparent rgba(255,255,255,.16) transparent;
+    transform:rotate(-22deg) translateY(-1px);
+    transform-origin:bottom left;
+    z-index:-1;
+  }
+
+  .scene-figure{
+    position:relative; z-index:2;
+    display:flex; align-items:center; justify-content:center;
+    margin-bottom:16px;
+  }
+  .portrait{
+    position:relative;
+    width:auto;
+    height:clamp(350px, 35vh, 350px);
+    aspect-ratio:1/1;
+    max-width:84%;
+    background:rgba(255,255,255,.05);
+    display:flex; align-items:center; justify-content:center;
+    overflow:hidden;
+  }
+  .portrait img{
+    width:100%; height:100%;
+    object-fit:cover;
+    object-position:center top;
+    display:block;
+  }
+  .portrait .fallback{
+    font-family:'Bungee',sans-serif;
+    font-size:15px;
+    text-align:center;
+    padding:0 14px;
+    color:rgba(255,255,255,.55);
+    display:none;
+  }
+  .portrait.gif-missing img{display:none;}
+  .portrait.gif-missing .fallback{display:block;}
+  /* corner brackets, RPG dialogue-portrait style */
+  .portrait::before, .portrait::after,
+  .bracket-tl, .bracket-br{
+    content:''; position:absolute; width:18px; height:18px;
+    border-color:inherit; z-index:3; pointer-events:none;
+  }
+  .portrait::before{ top:6px; left:6px; border-top:3px solid; border-left:3px solid; }
+  .portrait::after{ bottom:6px; right:6px; border-bottom:3px solid; border-right:3px solid; }
+
+  .hint{
+    position:relative; z-index:2;
+    color:var(--ink-dim);
+    font-size:11.5px;
+    text-align:center;
+    padding-bottom:16px;
+    letter-spacing:.03em;
+  }
+
+  .replay-wrap{
+    position:absolute; inset:0;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
+    gap:18px; padding:0 30px; text-align:center;
+    z-index:2;
+  }
+  .replay-wrap h2{
+    font-family:'Bungee',sans-serif;
+    font-size:26px;
+    margin:0;
+  }
+  .replay-wrap p{
+    color:var(--ink-dim);
+    font-size:14px;
+    max-width:260px;
+    margin:0;
+  }
+  #replay-btn{
+    padding:13px 30px;
+    border-radius:999px;
+    border:1.5px solid rgba(255,255,255,.4);
+    background:rgba(255,255,255,.08);
+    color:#fff;
+    font-family:'Bungee',sans-serif;
+    font-size:13px;
+    cursor:pointer;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .burst{animation:none;}
+    .scene{transition:opacity .3s ease;}
+  }
+</style>
+</head>
+<body>
+
+<div id="phone">
+
+  <div id="start">
+    <div class="eyebrow-mark">A MONTAGE FOR FARIZA</div>
+    <h1>Happy 17th<br>Birthday</h1>
+    <p class="sub">Some of anime's favorites stopped by with a message for you.</p>
+    <button id="begin-btn">Start ▸</button>
+    <p class="cast-line">Levi · Itachi · Leon · Stark · Gojo</p>
+  </div>
+
+  <div id="story">
+    <div class="progress-row" id="progress-row"></div>
+    <div class="tap-zone left" id="tap-left"></div>
+    <div class="tap-zone right" id="tap-right"></div>
+    <div id="scenes-container"></div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  const scenes = [
+    {
+      id:'levi',
+      who:'Levi Ackerman',
+      role:'Captain, Survey Corps',
+      gif:'levi.gif',
+      grad:'linear-gradient(160deg,#1a2622 0%, #0d1210 55%, #05070a 100%)',
+      glyphColor:'#8fae9d',
+      burstColor:'rgba(143,174,157,.4)',
+      lines:[
+        "Tch. Another year older, huh.",
+        "Don't get sentimental about it \u2014 but for what it's worth, happy seventeenth.",
+        "You've got more time ahead of you than most people get. Don't waste it. Now go clean your room, brat."
+      ]
+    },
+    {
+      id:'itachi',
+      who:'Itachi Uchiha',
+      role:'',
+      gif:'itachi.gif',
+      grad:'linear-gradient(160deg,#2a0d10 0%, #170608 55%, #05070a 100%)',
+      glyphColor:'#c95c5c',
+      burstColor:'rgba(201,92,92,.4)',
+      lines:[
+        "Seventeen years, and already you carry yourself like someone who's earned it.",
+        "That's rarer than people think.",
+        "*a light flick to the forehead* Happy birthday. Keep becoming who you're meant to be \u2014 I'll be watching, even from a distance."
+      ]
+    },
+    {
+      id:'leon',
+      who:'Leon S. Kennedy',
+      role:'',
+      gif:'leon.gif',
+      grad:'linear-gradient(160deg,#0e1f30 0%, #0a1520 55%, #05070a 100%)',
+      glyphColor:'#e2a15c',
+      burstColor:'rgba(226,161,92,.35)',
+      lines:[
+        "Seventeen and still standing \u2014 that's a win in my book, trust me.",
+        "Rookie numbers now, but give it time.",
+        "Happy birthday. Stay sharp, keep your friends close, and don't open any doors marked 'do not open.'"
+      ]
+    },
+    {
+      id:'stark',
+      who:'Stark',
+      role:'',
+      gif:'stark.gif',
+      grad:'linear-gradient(160deg,#2c210f 0%, #17120a 55%, #05070a 100%)',
+      glyphColor:'#e8c27a',
+      burstColor:'rgba(232,194,122,.35)',
+      lines:[
+        "I used to think a birthday was just another day between jobs.",
+        "Someone taught me the ordinary days are the ones worth keeping track of.",
+        "Happy seventeenth birthday. Here's hoping you get a whole lot of ordinary, wonderful days ahead of you."
+      ]
+    },
+    {
+      id:'gojo',
+      who:'Gojo Satoru',
+      role:'',
+      gif:'gojo.gif',
+      grad:'linear-gradient(160deg,#0e1c34 0%, #0a1120 55%, #05070a 100%)',
+      glyphColor:'#7fb2ff',
+      burstColor:'rgba(127,178,255,.4)',
+      lines:[
+        "Seventeen already?! Careful, you're starting to catch up to how unbeatable I am.",
+        "Happy birthday!",
+        "Go out there and be limitless today. And don't worry \u2014 your strongest fan is watching, so don't disappoint me."
+      ]
+    }
+  ];
+
+  const startScreen = document.getElementById('start');
+  const beginBtn = document.getElementById('begin-btn');
+  const story = document.getElementById('story');
+  const progressRow = document.getElementById('progress-row');
+  const scenesContainer = document.getElementById('scenes-container');
+  const tapLeft = document.getElementById('tap-left');
+  const tapRight = document.getElementById('tap-right');
+
+  let current = 0;
+  let timer = null;
+  let segmentStart = 0;
+  let paused = false;
+  const DURATION = 7200; // ms per scene
+  const totalScenes = scenes.length + 2; // intro + N characters + outro
+
+  function initials(name){
+    const parts = name.trim().split(/\s+/).filter(Boolean);
+    if(parts.length===0) return '?';
+    if(parts.length===1) return parts[0][0].toUpperCase();
+    return (parts[0][0]+parts[parts.length-1][0]).toUpperCase();
+  }
+
+  function buildBurst(color){
+    return `<svg class="burst" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+      <g stroke="${color}" stroke-width="1.4" opacity="0.9">
+        ${Array.from({length:24}).map((_,i)=>{
+          const angle = (i/24)*360;
+          return `<line x1="100" y1="100" x2="100" y2="0" transform="rotate(${angle} 100 100)"/>`;
+        }).join('')}
+      </g>
+    </svg>`;
+  }
+
+  function buildProgressBar(){
+    progressRow.innerHTML = '';
+    for(let i=0;i<totalScenes;i++){
+      const seg = document.createElement('div');
+      seg.className = 'seg';
+      seg.innerHTML = '<i></i>';
+      progressRow.appendChild(seg);
+    }
+  }
+
+  const NAME = 'Fariza';
+
+  function buildScenes(){
+    scenesContainer.innerHTML = '';
+
+    // Intro scene
+    const intro = document.createElement('div');
+    intro.className = 'scene';
+    intro.dataset.index = 0;
+    intro.style.background = 'linear-gradient(160deg,#2a1b3d 0%, #1a1128 55%, #05030a 100%)';
+    intro.innerHTML = `
+      <div class="burst" style="opacity:.35">${buildBurst('rgba(255,111,165,.4)')}</div>
+      <div class="replay-wrap">
+        <div class="portrait" style="height:clamp(200px, 34vh, 320px); border-color:#ff6fa5; box-shadow:0 0 50px rgba(255,111,165,.4), inset 0 0 24px rgba(0,0,0,.35); margin-bottom:6px;">
+          <img src="./gifs/kuromi.gif" alt="Kuromi" onerror="this.closest('.portrait').classList.add('gif-missing')">
+          <div class="fallback" style="color:#ff6fa5">Kuromi<br><span style="font-size:10px;letter-spacing:.04em;opacity:.85;">drop kuromi.gif in /gifs</span></div>
+        </div>
+        <h2>For ${NAME}</h2>
+        <p>A few familiar faces wanted to say something before the day's over.</p>
+      </div>
+    `;
+    scenesContainer.appendChild(intro);
+
+    // Character scenes
+    scenes.forEach((s, idx) => {
+      const el = document.createElement('div');
+      el.className = 'scene';
+      el.dataset.index = idx+1;
+      el.style.background = s.grad;
+      el.innerHTML = `
+        ${buildBurst(s.burstColor)}
+        <div class="scene-figure">
+          <div class="portrait" style="border-color:${s.glyphColor}; box-shadow:0 0 50px ${s.burstColor}, inset 0 0 24px rgba(0,0,0,.35);">
+            <img src="./gifs/${s.gif}" alt="${s.who}" onerror="this.closest('.portrait').classList.add('gif-missing')">
+            <div class="fallback" style="color:${s.glyphColor}">${initials(s.who)}<br><span style="font-size:10px;letter-spacing:.04em;opacity:.85;">drop ${s.gif} in /gifs</span></div>
+          </div>
+        </div>
+        <div class="name-plate">
+          <div class="who">${s.who}</div>
+          ${s.role ? `<div class="role">${s.role}</div>` : ''}
+        </div>
+        <div class="bubble-wrap">
+          <div class="bubble">${s.lines.map((l,i)=>`<p style="margin:0 0 ${i===s.lines.length-1?0:8}px;">${l}</p>`).join('')}</div>
+        </div>
+        <div class="hint">for ${NAME}</div>
+      `;
+      scenesContainer.appendChild(el);
+    });
+
+    // Outro scene
+    const outro = document.createElement('div');
+    outro.className = 'scene';
+    outro.dataset.index = totalScenes - 1;
+    outro.style.background = 'linear-gradient(160deg,#3d1b30 0%, #241128 55%, #05030a 100%)';
+    outro.innerHTML = `
+      <div class="burst" style="opacity:.4">${buildBurst('rgba(255,196,120,.45)')}</div>
+      <div class="replay-wrap">
+        <h2>Happy 17th<br>Birthday, ${NAME}!</h2>
+        <p>\u2014 from Yousha bhaia and some of your favorite heroes!</p>
+        <button id="replay-btn">Watch again</button>
+      </div>
+    `;
+    scenesContainer.appendChild(outro);
+  }
+
+  function escapeHtml(str){
+    return str.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function showScene(i){
+    current = i;
+    document.querySelectorAll('.scene').forEach(el=>{
+      el.classList.toggle('current', Number(el.dataset.index) === i);
+    });
+    document.querySelectorAll('.seg').forEach((seg, idx)=>{
+      const bar = seg.querySelector('i');
+      if(idx < i){ seg.classList.add('done'); bar.style.transition='none'; bar.style.width='100%'; }
+      else if(idx === i){ seg.classList.remove('done'); bar.style.transition='none'; bar.style.width='0%'; }
+      else { seg.classList.remove('done'); bar.style.transition='none'; bar.style.width='0%'; }
+    });
+    startTimer();
+    const rb = document.getElementById('replay-btn');
+    if(rb){ rb.onclick = ()=>{ pauseTimer(); story.classList.remove('active'); startScreen.classList.remove('hidden'); }; }
+  }
+
+  function startTimer(){
+    clearTimer();
+    const seg = progressRow.children[current];
+    const bar = seg.querySelector('i');
+    requestAnimationFrame(()=>{
+      bar.style.transition = `width ${DURATION}ms linear`;
+      bar.style.width = '100%';
+    });
+    timer = setTimeout(()=>{
+      if(current < totalScenes - 1){
+        showScene(current + 1);
+      }
+    }, DURATION);
+  }
+
+  function clearTimer(){
+    if(timer){ clearTimeout(timer); timer=null; }
+  }
+
+  function pauseTimer(){
+    clearTimer();
+    const seg = progressRow.children[current];
+    if(!seg) return;
+    const bar = seg.querySelector('i');
+    const computed = getComputedStyle(bar).width;
+    bar.style.transition = 'none';
+    bar.style.width = computed;
+  }
+  function resumeTimer(){
+    const seg = progressRow.children[current];
+    if(!seg) return;
+    const bar = seg.querySelector('i');
+    const currentWidth = parseFloat(getComputedStyle(bar).width);
+    const parentWidth = parseFloat(getComputedStyle(bar.parentElement).width);
+    const remainingRatio = 1 - (currentWidth / parentWidth);
+    const remainingMs = DURATION * remainingRatio;
+    clearTimer();
+    requestAnimationFrame(()=>{
+      bar.style.transition = `width ${remainingMs}ms linear`;
+      bar.style.width = '100%';
+    });
+    timer = setTimeout(()=>{
+      if(current < totalScenes - 1){ showScene(current + 1); }
+    }, remainingMs);
+  }
+
+  tapLeft.addEventListener('click', ()=>{
+    if(current > 0) showScene(current - 1);
+  });
+  tapRight.addEventListener('click', ()=>{
+    if(current < totalScenes - 1) showScene(current + 1);
+  });
+  ['mousedown','touchstart'].forEach(evt=>{
+    [tapLeft, tapRight].forEach(zone=>{
+      zone.addEventListener(evt, ()=>{ pauseTimer(); }, {passive:true});
+    });
+  });
+  ['mouseup','mouseleave','touchend','touchcancel'].forEach(evt=>{
+    [tapLeft, tapRight].forEach(zone=>{
+      zone.addEventListener(evt, ()=>{ resumeTimer(); }, {passive:true});
+    });
+  });
+  beginBtn.addEventListener('click', ()=>{
+    buildProgressBar();
+    buildScenes();
+    startScreen.classList.add('hidden');
+    story.classList.add('active');
+    showScene(0);
+  });
+})();
+</script>
+
+</body>
+</html>

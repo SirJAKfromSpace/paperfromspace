@@ -70,7 +70,8 @@ Stack: Android, Confluence, Java, XML SOAP, Python, Linux, NLP
 ## [Best Buy Canada](https://www.bestbuy.ca/en-ca)
 
 **Computing Solutions Advisor**
-2022
+
+2021 - 2022
 
 - Provided expert technical consultation to customers on PC builds, smart home ecosystems, and audio systems, consistently delivering personalized solutions while meeting sales targets
 - Demonstrated comprehensive product knowledge across multiple technology categories, advising customers on compatibility, performance requirements, and optimal configurations for their needs
@@ -168,9 +169,7 @@ Made using: Flutter, Firebase, iOS, Android, Agora RTC
 
 ## Show Reels Unity and Blender
 
----
-
-Demo video of Blender renders - used multiple clones and composition shot, CGI placement of 3D objects in scene, fluid and rigidbody physics simulations, character modelling, rigging and animation.
+Demo video of Blender renders - used multiple clones and composition shot, CGI placement of 3D objects in scene of real phone-shot footage, fluid and rigidbody physics simulations, character modelling, rigging and animation including LEGO style.
 [Blender Showreel 2018](https://youtu.be/eWian83-w_w?si=gqhTnT8FjXTeUoko)
 
 Demo collection of games deployed for Android using Unity, C#, hand-drawn graphics and animations.
