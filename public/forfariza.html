@@ -215,15 +215,15 @@
   .portrait{
     position:relative;
     width:auto;
-    height:clamp(160px, 26vh, 260px);
-    height:clamp(160px, 26dvh, 260px);
+    /*height:clamp(160px, 26vh, 260px);*/
+    /*height:clamp(160px, 26dvh, 260px);*/
     height:clamp(140px, 22vh, 220px); height:clamp(140px, 22dvh, 220px);
-    min-height:0;
+    /*min-height:0;*/
     aspect-ratio:1/1;
-    max-width:78%;
+    /*max-width:78%;*/
     background:rgba(255,255,255,.05);
-    display:flex; align-items:center; justify-content:center;
-    overflow:hidden;
+    /*display:flex; align-items:center; justify-content:center;*/
+    overflow:visible;
   }
   .portrait img{
     width:100%; height:100%;
@@ -317,7 +317,7 @@
 
 <script>
 (function(){
-  const scenes = [
+const scenes = [
     {
       id:'levi',
       who:'Levi Ackerman',
@@ -327,9 +327,8 @@
       glyphColor:'#8fae9d',
       burstColor:'rgba(143,174,157,.4)',
       lines:[
-        "Tch. Another year older, huh.",
-        "Don't get sentimental about it \u2014 but for what it's worth, happy seventeenth.",
-        "You've got more time ahead of you than most people get. Don't waste it. Now go clean your room, brat."
+        "Tch. Happy seventeenth, brat.",
+        "You've got more time ahead than most people get — don't waste it. Now go clean your room."
       ]
     },
     {
@@ -341,9 +340,8 @@
       glyphColor:'#c95c5c',
       burstColor:'rgba(201,92,92,.4)',
       lines:[
-        "Seventeen years, and already you carry yourself like someone who's earned it.",
-        "That's rarer than people think.",
-        "*a light flick to the forehead* Happy birthday. Keep becoming who you're meant to be \u2014 I'll be watching, even from a distance."
+        "*flicks your forehead* Happy birthday.",
+        "Keep becoming who you're meant to be — I'll be watching from a distance."
       ]
     },
     {
@@ -355,9 +353,8 @@
       glyphColor:'#e2a15c',
       burstColor:'rgba(226,161,92,.35)',
       lines:[
-        "Seventeen and still standing \u2014 that's a win in my book, trust me.",
-        "Rookie numbers now, but give it time.",
-        "Happy birthday. Stay sharp, keep your friends close, and don't open any doors marked 'do not open.'"
+        "Seventeen and still standing — that's a win in my book.",
+        "Happy birthday. Stay sharp, and don't open any doors marked 'do not enter.'"
       ]
     },
     {
@@ -369,9 +366,8 @@
       glyphColor:'#e8c27a',
       burstColor:'rgba(232,194,122,.35)',
       lines:[
-        "I used to think a birthday was just another day between jobs.",
-        "Someone taught me the ordinary days are the ones worth keeping track of.",
-        "Happy seventeenth birthday. Here's hoping you get a whole lot of ordinary, wonderful days ahead of you."
+        "Someone taught me the ordinary days are the ones worth keeping.",
+        "Happy 17th birthday! Here's to a lot of wonderful, peaceful days ahead."
       ]
     },
     {
@@ -383,9 +379,8 @@
       glyphColor:'#7fb2ff',
       burstColor:'rgba(127,178,255,.4)',
       lines:[
-        "Seventeen already?! Careful, you're starting to catch up to how unbeatable I am.",
-        "Happy birthday!",
-        "Go out there and be limitless today. And don't worry \u2014 your strongest fan is watching, so don't disappoint me."
+        "Seventeen already?! You're almost catching up to how unbeatable I am.",
+        "Happy birthday! Go out there and be limitless today!"
       ]
     }
   ];
@@ -465,7 +460,7 @@
       el.innerHTML = `
         ${buildBurst(s.burstColor)}
         <div class="scene-figure">
-          <div class="portrait" style="border-color:${s.glyphColor}; box-shadow:0 0 50px ${s.burstColor}, inset 0 0 24px rgba(0,0,0,.35);">
+          <div class="portrait" style="border-color:${s.glyphColor}; box-shadow:0 0 50px ${s.burstColor}, inset 0 0 24px rgba(0,0,0,.35); margin-bottom:6px;">
             <img src="./gifs/${s.gif}" alt="${s.who}" onerror="this.closest('.portrait').classList.add('gif-missing')">
             <div class="fallback" style="color:${s.glyphColor}">${initials(s.who)}<br><span style="font-size:10px;letter-spacing:.04em;opacity:.85;">drop ${s.gif} in /gifs</span></div>
           </div>
