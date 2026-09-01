@@ -174,7 +174,8 @@
     border:1px solid rgba(255,255,255,.16);
     border-radius:6px 20px 20px 20px;
     padding:22px 20px 20px;
-    font-size:15.5px;
+    font-size: clamp(12px, 3.5vw, 15px);
+    font-size: clamp(11px, 3.5dvw, 15px);
     line-height:1.55;
     box-shadow:0 20px 50px rgba(0,0,0,.4);
   }
@@ -298,10 +299,10 @@
 
   <div id="start">
     <div class="eyebrow-mark">A MONTAGE FOR FARIZA</div>
-    <h1>Happy 17th<br>Birthday</h1>
-    <p class="sub">Some of anime's favorites stopped by with a message for you.</p>
+    <h1>Happy 17th<br>Birthday!</h1>
+    <p class="sub">'Ello there Farz! Oh look! I got some of my peeps to stop by with a message for you.</p>
     <button id="begin-btn">Start ▸</button>
-    <p class="cast-line">Levi · Itachi · Leon · Stark · Gojo</p>
+    <!--<p class="cast-line">Levi · Itachi · Leon · Stark · Gojo</p>-->
   </div>
 
   <div id="story">
@@ -333,7 +334,7 @@
     {
       id:'itachi',
       who:'Itachi Uchiha',
-      role:'',
+      role:'Rogue Ninja, Anbu Captain',
       gif:'itachi.gif',
       grad:'linear-gradient(160deg,#2a0d10 0%, #170608 55%, #05070a 100%)',
       glyphColor:'#c95c5c',
@@ -347,7 +348,7 @@
     {
       id:'leon',
       who:'Leon S. Kennedy',
-      role:'',
+      role:'DSO Agent, Special Operations',
       gif:'leon.gif',
       grad:'linear-gradient(160deg,#0e1f30 0%, #0a1520 55%, #05070a 100%)',
       glyphColor:'#e2a15c',
@@ -361,7 +362,7 @@
     {
       id:'stark',
       who:'Stark',
-      role:'',
+      role:'Warrior, Frieren\'s Party',
       gif:'stark.gif',
       grad:'linear-gradient(160deg,#2c210f 0%, #17120a 55%, #05070a 100%)',
       glyphColor:'#e8c27a',
@@ -375,7 +376,7 @@
     {
       id:'gojo',
       who:'Gojo Satoru',
-      role:'',
+      role:'Special Grade Sorcerer',
       gif:'gojo.gif',
       grad:'linear-gradient(160deg,#0e1c34 0%, #0a1120 55%, #05070a 100%)',
       glyphColor:'#7fb2ff',
@@ -449,7 +450,7 @@
           <div class="fallback" style="color:#ff6fa5">Kuromi<br><span style="font-size:10px;letter-spacing:.04em;opacity:.85;">drop kuromi.gif in /gifs</span></div>
         </div>
         <h2>For ${NAME}</h2>
-        <p>A few familiar faces wanted to say something before the day's over.</p>
+        <p>A few familiar faces wanted to say something before the day's over.<br>(Hope its makes you smile!)</p>
       </div>
     `;
     scenesContainer.appendChild(intro);
@@ -494,7 +495,7 @@
         </div>
         <h2>Happy 17th<br>Birthday, ${NAME}!</h2>
         <p>\u2014 from Yousha bhaia and some of your favorite heroes!</p>
-        <button id="replay-btn">Watch again</button>
+        <!--<button id="replay-btn">Watch again</button>-->
       </div>
     `;
     scenesContainer.appendChild(outro);
