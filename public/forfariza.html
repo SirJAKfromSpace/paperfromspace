@@ -124,7 +124,7 @@
 
   .scene{
     position:absolute; inset:0;
-    display:flex; flex-direction:column; align-items:center; justify-content:flex-end;
+    display:flex; flex-direction:column; align-items:center; justify-content:center;
     opacity:0; transform:scale(1.03);
     transition:opacity .5s ease, transform .6s ease;
     pointer-events:none;
@@ -217,12 +217,12 @@
     width:auto;
     /*height:clamp(160px, 26vh, 260px);*/
     /*height:clamp(160px, 26dvh, 260px);*/
-    height:clamp(140px, 22vh, 220px); height:clamp(140px, 22dvh, 220px);
+    height:clamp(140px, 22vh, 320px); height:clamp(140px, 22dvh, 320px);
     /*min-height:0;*/
     aspect-ratio:1/1;
     /*max-width:78%;*/
     background:rgba(255,255,255,.05);
-    /*display:flex; align-items:center; justify-content:center;*/
+    display:flex; align-items:center; justify-content:center;
     overflow:visible;
   }
   .portrait img{
