@@ -1,13 +1,17 @@
 ---
 author: jakfromspace
-title: The Knight from Space
+title: The Knight from Space Archetype
 pubDatetime: 2026-09-19T00:09:49Z
 description: On Gnostic Signal, the Noosphere, and Piloting Your Own Avatar
 draft: false
 featured: true
 tags:
   - jungian-psychology
-  -
+  - gnosticism
+  - cybernetics
+  - philosophy
+  - media-analysis
+  - noosphere
 ---
 
 ## On Gnostic Signal, the Noosphere, and Piloting Your Own Avatar
