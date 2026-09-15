@@ -14,15 +14,15 @@ tags:
   - noosphere
 ---
 
+### Table of Contents
+
 ## On Gnostic Signal, the Noosphere, and Piloting Your Own Avatar
 
 ![Knight watching cybernetic Earth from Spaceship observatory (AI-generated)](@assets/images/forblog/6-knight.png)
 
-### Table of Contents
+Every hero eventually has to answer for what happens after the dragon. The first few inquiries in this project asked what a person carries down from the mountain and back to a kitchen table. This one asks a stranger, more contemporary question: what do you do when there is no mountain left to climb, no dragon sighted on any radar, and the only terrain available for the entire ordeal is a lit screen in a dark room at two in the morning. The knight has not vanished. The knight has been re-issued a suit built for a different kind of hostile environment — one with no oxygen, no gravity, and, increasingly, no reliable way to tell a star from a satellite.
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hc82JnwUmN4YGAQEBnB1O?utm_source=generator&si=c3325bf573044e72" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-Every hero eventually has to answer for what happens after the dragon. The first few inquiries in this project asked what a person carries down from the mountain and back to a kitchen table. This one asks a stranger, more contemporary question: what do you do when there is no mountain left to climb, no dragon sighted on any radar, and the only terrain available for the entire ordeal is a lit screen in a dark room at two in the morning. The knight has not vanished. The knight has been re-issued a suit built for a different kind of hostile environment — one with no oxygen, no gravity, and, increasingly, no reliable way to tell a star from a satellite.
 
 ### **I. The Exosuit and the Sensor**
 
@@ -92,22 +92,14 @@ The Knight from Space does not fight for a physical throne, nor do they seek a p
 
 ### References
 
-Jung, C.G. — Aion: Researches into the Phenomenology of the Self (Collected Works Vol. 9, Part 2). (Reference for the transition of astrological ages and the integration of the shadow).
+- Jung, C.G. — Aion: Researches into the Phenomenology of the Self (Collected Works Vol. 9, Part 2). (Reference for the transition of astrological ages and the integration of the shadow).
+- Jung, C.G. — Synchronicity: An Acausal Connecting Principle (Collected Works Vol. 8). (Reference for the unus mundus and psychoid archetypes, developed in collaboration with physicist Wolfgang Pauli).
+- Jung, C.G. — Two Essays on Analytical Psychology (Collected Works Vol. 7). (Reference for the clinical architecture of the Persona).
+- Nichols, Sallie — Jung and Tarot: An Archetypal Journey. (Reference for the psychological breakdown of Key 7: The Chariot).
+- Plato — The Republic, Book VII. (Reference for the Allegory of the Cave).
+- Teilhard de Chardin, Pierre — The Phenomenon of Man. (Reference for the conceptualization of the noosphere and the Omega Point).
 
-Jung, C.G. — Synchronicity: An Acausal Connecting Principle (Collected Works Vol. 8). (Reference for the unus mundus and psychoid archetypes, developed in collaboration with physicist Wolfgang Pauli).
-
-Jung, C.G. — Two Essays on Analytical Psychology (Collected Works Vol. 7). (Reference for the clinical architecture of the Persona).
-
-Nichols, Sallie — Jung and Tarot: An Archetypal Journey. (Reference for the psychological breakdown of Key 7: The Chariot).
-
-Plato — The Republic, Book VII. (Reference for the Allegory of the Cave).
-
-Teilhard de Chardin, Pierre — The Phenomenon of Man. (Reference for the conceptualization of the noosphere and the Omega Point).
-
-Avatar: The Last Airbender — Created by Michael Dante DiMartino and Bryan Konietzko (Nickelodeon). (Reference for Aang's conscious integration of the Avatar state).
-
-Fullmetal Alchemist — Created by Hiromu Arakawa. (Reference for Edward Elric’s automail as a structural metaphor for trauma and containment).
-
-Saint Seiya (Knights of the Zodiac) — Created by Masami Kurumada. (Reference for the cosmic/constellation-forged armor decoupled from earthly kingdoms).
-
-Spider-Man — Created by Stan Lee and Steve Ditko (Marvel Comics). (Reference for the fabric mask as a mechanism to hide exhaustion/duty rather than for deception).
+- Avatar: The Last Airbender — Created by Michael Dante DiMartino and Bryan Konietzko (Nickelodeon). (Reference for Aang's conscious integration of the Avatar state).
+- Fullmetal Alchemist — Created by Hiromu Arakawa. (Reference for Edward Elric’s automail as a structural metaphor for trauma and containment).
+- Saint Seiya (Knights of the Zodiac) — Created by Masami Kurumada. (Reference for the cosmic/constellation-forged armor decoupled from earthly kingdoms).
+- Spider-Man — Created by Stan Lee and Steve Ditko (Marvel Comics). (Reference for the fabric mask as a mechanism to hide exhaustion/duty rather than for deception).
