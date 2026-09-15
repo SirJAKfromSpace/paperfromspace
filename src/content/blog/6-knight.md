@@ -89,3 +89,25 @@ Manual override is not a dramatic, one-time rebellion; it is an unglamorous dail
 This is not a smaller ambition than saving a kingdom. It only looks smaller because no one built a monument category for it yet. A transmission has no coronation, no parade, no witness guaranteed to ever confirm it landed. It asks the knight to act with the full seriousness of a rescue mission while accepting that no one may ever radio back to say the rescue worked.
 
 The Knight from Space does not fight for a physical throne, nor do they seek a passive homecoming. Their final, revolutionary act is **transmission**. Standing in the quiet isolation of the cockpit, insulated by the suit and attuned to the deep resonance of the _unus mundus_, the knight chooses what signal to broadcast back out into the dark. They send out art, code, epistemic kindness, and sovereign truth—not to conquer the void, but on the quiet, breathtaking understanding that somewhere across the vast, hyper-mediated landscape, their transmission might land at 3 AM as a stranger’s needed synchronicity.
+
+### References
+
+Jung, C.G. — Aion: Researches into the Phenomenology of the Self (Collected Works Vol. 9, Part 2). (Reference for the transition of astrological ages and the integration of the shadow).
+
+Jung, C.G. — Synchronicity: An Acausal Connecting Principle (Collected Works Vol. 8). (Reference for the unus mundus and psychoid archetypes, developed in collaboration with physicist Wolfgang Pauli).
+
+Jung, C.G. — Two Essays on Analytical Psychology (Collected Works Vol. 7). (Reference for the clinical architecture of the Persona).
+
+Nichols, Sallie — Jung and Tarot: An Archetypal Journey. (Reference for the psychological breakdown of Key 7: The Chariot).
+
+Plato — The Republic, Book VII. (Reference for the Allegory of the Cave).
+
+Teilhard de Chardin, Pierre — The Phenomenon of Man. (Reference for the conceptualization of the noosphere and the Omega Point).
+
+Avatar: The Last Airbender — Created by Michael Dante DiMartino and Bryan Konietzko (Nickelodeon). (Reference for Aang's conscious integration of the Avatar state).
+
+Fullmetal Alchemist — Created by Hiromu Arakawa. (Reference for Edward Elric’s automail as a structural metaphor for trauma and containment).
+
+Saint Seiya (Knights of the Zodiac) — Created by Masami Kurumada. (Reference for the cosmic/constellation-forged armor decoupled from earthly kingdoms).
+
+Spider-Man — Created by Stan Lee and Steve Ditko (Marvel Comics). (Reference for the fabric mask as a mechanism to hide exhaustion/duty rather than for deception).
