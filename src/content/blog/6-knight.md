@@ -18,7 +18,7 @@ tags:
 
 ## On Gnostic Signal, the Noosphere, and Piloting Your Own Avatar
 
-![Knight watching cybernetic Earth from Spaceship observatory (AI-generated)](@assets/images/forblog/6-knight.png)
+![Knight watching cybernetic Earth from Spaceship observatory (AI-generated)](@assets/images/forblog/6-knight2.png)
 
 Every hero eventually has to answer for what happens after the dragon. The first few inquiries in this project asked what a person carries down from the mountain and back to a kitchen table. This one asks a stranger, more contemporary question: what do you do when there is no mountain left to climb, no dragon sighted on any radar, and the only terrain available for the entire ordeal is a lit screen in a dark room at two in the morning. The knight has not vanished. The knight has been re-issued a suit built for a different kind of hostile environment — one with no oxygen, no gravity, and, increasingly, no reliable way to tell a star from a satellite.
 
