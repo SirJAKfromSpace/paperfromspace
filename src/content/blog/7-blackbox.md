@@ -147,3 +147,5 @@ Grace is not a sentimental hand-wave or an arbitrary bypass of physics. In cyber
 The pilot reaches into the dark housing behind the chair and unlatches the black box. It is no longer a locked chamber of ghosts, nor a closed loop replaying the moment of impact. It is simply reviewed data—a bound, immutable record of velocity, vector, and impact.
 
 The pilot slides the flight recorder back into its bay, hears the heavy, satisfying _thunk_ of the magnetic lock engaging, and flips the main propulsion drive to active. The thrusters ignite, burning hot and steady against the vacuum. The internal telemetry is clear. The flight continues.
+
+[ Previous log: [The Space Knight](/posts/7-knight)]
