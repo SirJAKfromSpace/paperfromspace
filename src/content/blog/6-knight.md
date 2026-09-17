@@ -1,8 +1,8 @@
 ---
 author: jakfromspace
 title: The Knight from Space Archetype
-pubDatetime: 2026-09-19T00:09:49Z
-description: On Gnostic Signal, the Noosphere, and Piloting Your Own Avatar
+pubDatetime: 2026-09-19T01:09:19Z
+description: On Gnostic Signal, the Noosphere, and Piloting Your Own Avatar (•)
 draft: false
 featured: true
 tags:
