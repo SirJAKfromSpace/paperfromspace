@@ -148,3 +148,5 @@ From the cockpit, wedged in the threshold between the Black Iron Prison and the 
 It is the Sophia Frequency, carrying a single, un-encryptable set of flight coordinates.
 
 The door is open. The coordinates are logged. Now, the rest of us just have to build our ships.
+
+[ Prev logs: [The Knight from Space](/posts/7-knight) > [The Black Box](/posts/7-blackbox) ]
