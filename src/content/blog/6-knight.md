@@ -104,4 +104,4 @@ The Knight from Space does not fight for a physical throne, nor do they seek a p
 - Saint Seiya (Knights of the Zodiac) — Created by Masami Kurumada. (Reference for the cosmic/constellation-forged armor decoupled from earthly kingdoms).
 - Spider-Man — Created by Stan Lee and Steve Ditko (Marvel Comics). (Reference for the fabric mask as a mechanism to hide exhaustion/duty rather than for deception).
 
-[ Next log: [The Black Box](/posts/7-blackbox)]
+[ Next log: [The Black Box](/posts/7-blackbox) ]

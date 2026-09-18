@@ -148,4 +148,5 @@ The pilot reaches into the dark housing behind the chair and unlatches the black
 
 The pilot slides the flight recorder back into its bay, hears the heavy, satisfying _thunk_ of the magnetic lock engaging, and flips the main propulsion drive to active. The thrusters ignite, burning hot and steady against the vacuum. The internal telemetry is clear. The flight continues.
 
-[ Previous log: [The Space Knight](/posts/7-knight)]
+[ Previous log: [The Space Knight](/posts/7-knight) ]
+[ Next log: [The Seventh Coordinate](/posts/9-seventh)]
