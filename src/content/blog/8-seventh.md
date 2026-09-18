@@ -13,9 +13,9 @@ tags:
 
 _On Cyber-Gnosticism, the Kenoma Protocol, and the Sophia Frequency_
 
-![Knight transmitting (AI-generated)](@assets/images/forblog/9-seventh.png)
-
 ## Through the Cockpit Glass
+
+![Knight transmitting (AI-generated)](@assets/images/forblog/9-seventh.png)
 
 _The Space Knight_ forged the exosuit—a pressurized hull designed to survive the crushing vacuum of the world. _The Black Box_ unlocked the flight recorder, providing the mechanical telemetry to process the internal crash without being consumed by it.
 
