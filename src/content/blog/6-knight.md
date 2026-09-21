@@ -4,7 +4,7 @@ title: The Knight from Space Archetype
 pubDatetime: 2026-09-19T01:09:19Z
 description: On Gnostic Signal, the Noosphere, and Piloting Your Own Avatar (•)
 draft: false
-featured: true
+featured: false
 tags:
   - jungian-psychology
   - gnosticism
@@ -54,7 +54,7 @@ From this orbital vantage point, the internal architecture of judgment undergoes
 
 It is here that the **avatar** makes its first necessary appearance. Your digital handle, your curated feed, your public profile—this cybernetic shell is simply the modern, networked iteration of the spacesuit. It is the mediating proxy between raw, unarmored subjectivity and the searing, uncalibrated void of public exposure. It is no coincidence that this digital interface shares its name with the Sanskrit _avatāra_—the divine principle descending into a material vehicle to bridge two incompatible worlds. Plant this truth firmly in the suit's diagnostic log: the avatar you wear online is already a spacecraft. The only remaining question is whether you are merely riding inside it as an anxious, unconscious passenger, or actively standing at the helm.
 
-### **III. True Signal, False Light — Telemetry in the Age of the Algorithm**
+### **III. True Signal and False Light**
 
 Suspended in the void, cut off from terrestrial maps and institutional landmarks, the cosmic knight faces an immediate navigation problem: how do you plot a course through a vacuum? You rely on telemetry. You scan the deep dark for a signal. But in an age dominated by digital liquidity and hyper-mediated reality, the frequency band is jammed with counterfeit transmissions, making the act of discernment the ultimate survival skill.
 

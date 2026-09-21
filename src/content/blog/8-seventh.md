@@ -4,18 +4,18 @@ title: The Seventh Coordinate
 pubDatetime: 2026-10-10T10:10:10Z
 description: On Cyber-Gnosticism, the Kenoma Protocol, and the Sophia Frequency (▽)
 draft: false
-featured: true
+featured: false
 tags:
   - jungian-psychology
 ---
 
 ### Table of Contents
 
-_On Cyber-Gnosticism, the Kenoma Protocol, and the Sophia Frequency_
+## On Cyber-Gnosticism, the Kenoma Protocol, and the Sophia Frequency
 
 ## Through the Cockpit Glass
 
-![Knight transmitting (AI-generated)](@assets/images/forblog/9-seventh.png)
+![Knight breaching the Sky (AI-generated)](@assets/images/forblog/9-breach.png)
 
 _The Space Knight_ forged the exosuit—a pressurized hull designed to survive the crushing vacuum of the world. _The Black Box_ unlocked the flight recorder, providing the mechanical telemetry to process the internal crash without being consumed by it.
 
@@ -64,6 +64,8 @@ Recall the "loop tape" of Shame from _The Black Box_—the paralyzing compulsion
 To fly through it is to realize that the towering, hyper-tech megastructures surrounding you are just holographic overlays draped across ancient, oppressive Archonic architecture.
 
 ## III. The Sophia Frequency: The Monadic Signature
+
+![Knight transmitting Sophia (AI-generated)](@assets/images/forblog/9-soph.png)
 
 If the Archonic Kenoma is a flat, Euclidean render farm optimized for heat extraction, we must ask: what is the pilot actually scanning for? What is the signal that drew the Knight into the void in the first place?
 

@@ -2,9 +2,9 @@
 author: jakfromspace
 title: The Black Box
 pubDatetime: 2026-09-26T16:36:06Z
-description: On the Sacred Geometry of the Wound and the Refracted Telemetry of the Soul (|)
+description: On the Sacred Geometry and Refracted Telemetry of the Soul (|)
 draft: false
-featured: true
+featured: false
 tags:
   - jungian-psychology
   - depth-psychology
@@ -132,7 +132,7 @@ To repair a ship plank by plank requires bringing the damaged components out of 
 
 Restitution acknowledges that while you cannot erase the impact recorded in the black box, you can actively rebuild the vessel around it. You drag the shattered hull plates into the light, heat the rivets, and weld new armor over the breach. It is the physical proof that the crash was not the final entry in the logbook, but merely the point where the true construction began.
 
-### Coda — The Unbroken Solid
+## Coda — The Unbroken Solid
 
 If every damaged plank of the ship has been pulled out of the shadow, planed down by repentance, and refitted through restitution, an old philosophical paradox looms: is the vessel that clears the nebula the same one that spiraled into it?
 
